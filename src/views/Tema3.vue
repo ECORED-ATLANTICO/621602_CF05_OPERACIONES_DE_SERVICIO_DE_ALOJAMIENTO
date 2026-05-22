@@ -318,48 +318,70 @@
     .row.justify-content-center.align-items-center.mb-2
       .col-12.col-lg-10
         PasosA.color-primario.mb-5(tipo="n")
-          .row(titulo="aaa")
+          .row(titulo="08:15 a. m. – Habitación pendiente de limpieza").align-items-center
             .col-lg
-              h3 Habitación pendiente de limpieza
-              p La habitación 305 presenta más de 30 minutos de retraso en limpieza. El área de housekeeping recibe la alerta para priorizar la atención y liberar la habitación lo antes posible.
+              h3 08:15 a. m. – Habitación pendiente de limpieza
+              p La habitación 305 presenta más de 30 minutos de retraso en limpieza. El área de <i>housekeeping</i> recibe la alerta para priorizar la atención y liberar la habitación lo antes posible.
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen alerta limpieza')
-          .row(titulo="aaa")
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación pendiente de limpieza')
+          .row(titulo="08:45 a. m. – Check-in realizado").align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen reserva sin garantía')
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Check-in realizado')
             .col-lg
-              h3 Reserva sin garantía
-              p La reserva 1024 no tiene confirmación de pago, lo que exige contactar al huésped para asegurar la reserva.
-          .row(titulo="aaa")
+              h3 08:45 a. m. – Check-in realizado
+              p El huésped de la reserva número 12540 realizó correctamente el proceso de <i>check-in</i>. La información queda actualizada en recepción y el sistema registra la habitación como ocupada.
+          .row(titulo="09:00 a. m. – Check-in próximo").align-items-center
             .col-lg
-              h3 Sobreocupación
-              p Se detectó exceso de reservas para la fecha 12/07, requiriendo reubicación o ajuste de disponibilidad.
+              h3 09:00 a. m. – Check-in próximo
+              p El sistema informa la llegada programada de un huésped en los próximos 15 minutos para la reserva 12548 en la habitación 412. Recepción prepara el ingreso y verifica disponibilidad.
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen sobreocupación')
-          .row(titulo="aaa")
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Check-in próximo')
+          .row(titulo="10:20 a. m. – Pago pendiente").align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen próximo check‑in')
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Pago pendiente')
             .col-lg
-              h3 Check‑in próximo
-              p Llegada prevista del huésped en 30 minutos, se prepara la habitación para una recepción fluida.
-          .row(titulo="aaa")
+              h3 10:20 a. m. – Pago pendiente
+              p La reserva número 12490 presenta un pago pendiente de confirmación. El área de reservas debe validar la garantía y verificar el estado del cobro antes del ingreso del huésped.
+          .row(titulo="11:10 a. m. – Habitación en mantenimiento").align-items-center
             .col-lg
-              h3 Pago pendiente
-              p La factura de la reserva 1087 está sin cerrar, se requiere verificar el cobro antes del check‑out.
+              h3 11:10 a. m. – Habitación en mantenimiento
+              p La habitación 502 reporta daños en el sistema de aire acondicionado. El PMS registra la novedad y cambia temporalmente el estado de la habitación a mantenimiento.
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen pago pendiente')
-          .row(titulo="aaa")
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación en mantenimiento')
+          .row(titulo="12:30 p. m. – Sobreocupación prevista").align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen mantenimiento')
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Sobreocupación prevista')
             .col-lg
-              h3 Mantenimiento requerido
-              p Se ha generado una alerta de reparación para la habitación 210, pendiente de intervención del equipo técnico.
+              h3 12:30 p. m. – Sobreocupación prevista
+              p El sistema proyecta una ocupación del 95 % para el día siguiente. La gerencia recibe una alerta preventiva para controlar disponibilidad y evitar sobreventas.
+          .row(titulo="01:05 p. m. – Habitación lista").align-items-center
+            .col-lg
+              h3 01:05 p. m. – Habitación lista
+              p <i>Housekeeping</i> actualiza la habitación 305 como limpia y disponible para nuevas reservas o asignaciones de <i>check-in</i>.
+            .col-auto
+              figure
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación lista')
+          .row(titulo="03:15 p. m. – Mantenimiento programado").align-items-center
+            .col-auto
+              figure
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Mantenimiento programado')
+            .col-lg
+              h3 03:15 p. m. – Mantenimiento programado
+              p La habitación 208 se encuentra temporalmente fuera de servicio por mantenimiento programado. El sistema restringe su venta hasta finalizar la intervención técnica.
+          .row(titulo="04:10 p. m. – No show").align-items-center
+            .col-lg
+              h3 04:10 p. m. – No show
+              p El huésped de la reserva número 12470 no se presentó al <i>check-in</i> ni realizó cancelación previa. El PMS registra automáticamente el caso como no show y actualiza la disponibilidad.
+            .col-auto
+              figure
+                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen No show')
+
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-2.col-md-6.mb-3.mb-lg-0.d-none.d-lg-flex
