@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Software hotelero y las reservaciones en hoteles',
     Description:
-      'El componente formativo Software hotelero y reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del software hotelero, el funcionamiento del PMS, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
+      'El componente formativo <em>Software</em> hotelero y reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del <em>software</em> hotelero, el funcionamiento del <em>PMS</em>, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -99,7 +99,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Control operativo y monitoreo técnico',
+        titulo: 'Control operativo and monitoreo técnico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -229,69 +229,69 @@ export default {
         'Uso de herramientas tecnológicas para realizar procesos operativos de manera automática y eficiente.',
     },
     {
-      termino: 'Booking Engine',
+      termino: '<em>Booking Engine</em>',
       significado:
         'Motor de reservas integrado a la página web del hotel que permite realizar reservas directas en línea.',
     },
     {
       termino: 'Canal de distribución',
       significado:
-        'Medio utilizado para comercializar habitaciones y servicios hoteleros, como OTA, agencias o venta directa.',
+        'Medio utilizado para comercializar habitaciones y servicios hoteleros, como <em>OTA</em>, agencias o venta directa.',
     },
     {
-      termino: 'Channel Manager',
+      termino: '<em>Channel Manager</em>',
       significado:
         'Sistema cuya función es unificar y sincronizar tarifas, disponibilidad y reservas en los diferentes canales de comercio electrónico.',
     },
     {
-      termino: 'Check-in',
+      termino: '<em>Check-in</em>',
       significado:
         'Proceso de registro e ingreso del huésped al establecimiento de alojamiento.',
     },
     {
-      termino: 'Check-out',
+      termino: '<em>Check-out</em>',
       significado:
         'Proceso de salida del huésped y cierre administrativo de su estadía.',
     },
     {
       termino: 'Cliente / Servidor',
       significado:
-        'Modelo de arquitectura de software donde el programa se instala en un servidor central y desde allí se distribuyen recursos y servicios a los equipos de los usuarios.',
+        'Modelo de arquitectura de <em>software</em> donde el programa se instala en un servidor central y desde allí se distribuyen recursos y servicios a los equipos de los usuarios.',
     },
     {
       termino: 'Código de reserva',
       significado:
-        'Identificador alfanumérico generado por el sistema PMS para reconocer una reserva específica.',
+        'Identificador alfanumérico generado por el sistema <em>PMS</em> para reconocer una reserva específica.',
     },
     {
-      termino: 'Cloud PMS',
+      termino: '<em>Cloud PMS</em>',
       significado:
         'Sistema de gestión hotelera alojado en la nube que permite acceder a la información desde internet.',
     },
     {
-      termino: 'CRM',
+      termino: '<em>CRM</em>',
       significado:
-        'Sigla de Customer Relationship Management; sistema utilizado para gestionar la relación y seguimiento de clientes.',
+        'Sigla de <em>Customer Relationship Management</em>; sistema utilizado para gestionar la relación y seguimiento de clientes.',
     },
     {
-      termino: 'Dashboard hotelero',
+      termino: '<em>Dashboard</em> hotelero',
       significado:
-        'Panel visual del PMS que muestra indicadores operativos y administrativos en tiempo real.',
+        'Panel visual del <em>PMS</em> que muestra indicadores operativos y administrativos en tiempo real.',
     },
     {
       termino: 'Distribución digital',
       significado:
-        'Comercialización de habitaciones y servicios hoteleros mediante plataformas tecnológicas y canales online.',
+        'Comercialización de habitaciones y servicios hoteleros mediante plataformas tecnológicas y canales <em>online</em>.',
     },
     {
-      termino: 'Forecasting',
+      termino: '<em>Forecasting</em>',
       significado:
         'Proyección o pronóstico de ocupación hotelera basado en datos históricos y reservas confirmadas.',
     },
     {
-      termino: 'GDS',
+      termino: '<em>GDS</em>',
       significado:
-        'Sigla de Global Distribution System; sistema global utilizado para comercializar servicios turísticos y hoteleros.',
+        'Sigla de <em>Global Distribution System</em>; sistema global utilizado para comercializar servicios turísticos y hoteleros.',
     },
     {
       termino: 'Gestión de ocupación',
@@ -304,7 +304,7 @@ export default {
         'Registro de información relacionada con preferencias, estadías y comportamiento de un cliente en el hotel.',
     },
     {
-      termino: 'Housekeeping',
+      termino: '<em>Housekeeping</em>',
       significado:
         'Departamento encargado de la limpieza, orden y acondicionamiento de habitaciones y áreas del hotel.',
     },
@@ -329,32 +329,32 @@ export default {
         'Plataforma tecnológica utilizada para gestionar reservas directas desde la página web del hotel.',
     },
     {
-      termino: 'OTA',
+      termino: '<em>OTA</em>',
       significado:
-        'Sigla de Online Travel Agency; agencia de viajes online que comercializa servicios turísticos y hoteleros.',
+        'Sigla de <em>Online Travel Agency</em>; agencia de viajes <em>online</em> que comercializa servicios turísticos y hoteleros.',
     },
     {
-      termino: 'PMS',
+      termino: '<em>PMS</em>',
       significado:
-        'Sigla de Property Management System; sistema utilizado para administrar la operación hotelera y las reservas.',
+        'Sigla de <em>Property Management System</em>; sistema utilizado para administrar la operación hotelera y las reservas.',
     },
     {
       termino: 'Reporte operativo',
       significado:
-        'Informe generado por el PMS que consolida información relacionada con ocupación, reservas y operación hotelera.',
+        'Informe generado por el <em>PMS</em> que consolida información relacionada con ocupación, reservas y operación hotelera.',
     },
     {
       termino: 'Reserva digital',
       significado:
-        'Solicitud de alojamiento registrada mediante plataformas tecnológicas o sistemas PMS.',
+        'Solicitud de alojamiento registrada mediante plataformas tecnológicas o sistemas <em>PMS</em>.',
     },
     {
-      termino: 'Revenue Management',
+      termino: '<em>Revenue Management</em>',
       significado:
         'Estrategia de gestión de ingresos basada en análisis de demanda, tarifas y ocupación hotelera.',
     },
     {
-      termino: 'Sobreventa (Overbooking)',
+      termino: 'Sobreventa (<em>Overbooking</em>)',
       significado:
         'Situación en la que el hotel vende más habitaciones de las disponibles.',
     },

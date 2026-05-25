@@ -5,12 +5,12 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Operación de reservas en el software hotelero
+      h1 Operación de reservas en el #[em software] hotelero
 
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-1(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-2
-          p.mb-0 La operación de reservas en el software hotelero constituye un proceso esencial dentro de la gestión de los establecimientos de alojamiento, ya que integra actividades técnicas, administrativas y de servicio orientadas a garantizar la correcta asignación de recursos, la optimización de la ocupación y la satisfacción del huésped.
+          p.mb-0 La operación de reservas en el #[em software] hotelero constituye un proceso esencial dentro de la gestión de los establecimientos de alojamiento, ya que integra actividades técnicas, administrativas y de servicio orientadas a garantizar la correcta asignación de recursos, la optimización de la ocupación y la satisfacción del huésped.
         .col-lg-5.p-0.order-1.order-lg-1
           img(src="@/assets/curso/tema2/img01.png", alt="")
 
@@ -18,7 +18,7 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema2/img02.svg").mx-auto
       .col-lg
-        p.mb-0 Desde una perspectiva operativa, el uso del Property Management System (PMS) permite sistematizar la información, reducir errores humanos y facilitar la toma de decisiones en tiempo real, lo cual contribuye directamente a la eficiencia organizacional y a la competitividad del sector.
+        p.mb-0 Desde una perspectiva operativa, el uso del #[em Property Management System] (#[em PMS]) permite sistematizar la información, reducir errores humanos y facilitar la toma de decisiones en tiempo real, lo cual contribuye directamente a la eficiencia organizacional y a la competitividad del sector.
 
     separador
     
@@ -32,7 +32,7 @@
             .col-lg-auto.d-none.d-lg-flex
               img(src="@/assets/curso/tema2/img03.svg").mx-auto
             .col-lg
-              p.mb-3 El registro digital de reservas consiste en el ingreso de la información del huésped dentro del sistema PMS, permitiendo almacenar y administrar datos relacionados con la estadía y los servicios contratados. Este procedimiento reemplaza los antiguos registros manuales y facilita el acceso rápido a la información desde diferentes áreas del hotel.
+              p.mb-3 El registro digital de reservas consiste en el ingreso de la información del huésped dentro del sistema #[em PMS], permitiendo almacenar y administrar datos relacionados con la estadía y los servicios contratados. Este procedimiento reemplaza los antiguos registros manuales y facilita el acceso rápido a la información desde diferentes áreas del hotel.
               p.mb-0 Durante el proceso de registro se ingresan datos como:
 
     .bg-full-width.bg-fondo-9.px-5.py-4.mb-5(data-aos="fade-right")
@@ -41,6 +41,7 @@
           .col-lg-3.col-md-8.mb-4.mb-lg-0
             img(src='@/assets/curso/tema2/img05.png', alt='Alfabeto Aeronáutico').mx-auto
           .col-lg-9.col-md-12
+            p.mb-4 Durante el proceso de registro se ingresan datos como:
             SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
@@ -97,7 +98,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Le invitamos a consultar el siguiente video, que registra un ejemplo práctico del proceso de ingreso de una reserva en PMS: 
+                p.mb-0 Le invitamos a consultar el siguiente video, que registra un ejemplo práctico del proceso de ingreso de una reserva en #[em PMS]: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=RKpZdrmdneY" target="_blank")
                   span Ver video
@@ -111,7 +112,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-md-12.mb-4.mb-lg-0
-        p.mb-3(data-aos="fade-right") El PMS permite consultar en tiempo real la disponibilidad de habitaciones y las tarifas vigentes según fechas, temporadas y niveles de ocupación. Esta funcionalidad facilita la atención al cliente y mejora el control operativo del hotel.
+        p.mb-3(data-aos="fade-right") El #[em PMS] permite consultar en tiempo real la disponibilidad de habitaciones y las tarifas vigentes según fechas, temporadas y niveles de ocupación. Esta funcionalidad facilita la atención al cliente y mejora el control operativo del hotel.
         p.mb-0 La consulta de disponibilidad puede realizarse mediante:
 
       .col-lg-5.col-md-6.mb-4.mb-lg-0
@@ -143,7 +144,7 @@
           .col-lg-auto.col-12.mb-3.mb-lg-3.d-none.d-lg-flex.d-md-flex
             img(src="@/assets/curso/tema2/img08.svg", style="max-width: 100px;" data-aos="zoom-in")
           .col-lg-12
-            p.mb-0(data-aos="fade-left") Asimismo, el sistema permite aplicar tarifas dinámicas y actualizaciones automáticas según estrategias de revenue management, evitando inconsistencias entre canales de venta.
+            p.mb-0(data-aos="fade-left") Asimismo, el sistema permite aplicar tarifas dinámicas y actualizaciones automáticas según estrategias de #[em revenue management], evitando inconsistencias entre canales de venta.
 
     .row.justify-content-center.align-items-center
       .col-lg-10.col-md-12
@@ -151,50 +152,50 @@
           .titulo-con-imagen.mb-5(data-aos="fade-right")
             .titulo-con-imagen__fondo
               img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
-              h3.titulo-con-imagen__texto Tipos de tarifas que administra el PMS 
+              h3.titulo-con-imagen__texto Tipos de tarifas que administra el #[em PMS] 
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10
-        .row
-          .col-lg-2.mb-4.mb-lg-0.col-md-6
-            .tarjeta.bg-color-21.p-4.h-100
+        .row.justify-content-center.row-cols-lg-5.row-cols-md-2.row-cols-1
+          .col.mb-4.mb-lg-0
+            .tarjeta.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
-              h4.text-center Rack
+                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              h4.text-center #[em Rack]
               p.mb-0.text-center Tarifa pública del hotel.
 
-          .col-lg-2.mb-4.mb-lg-0.col-md-6  
-            .tarjeta.bg-color-21.p-4.h-100
+          .col.mb-4.mb-lg-0  
+            .tarjeta.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
-              h4.text-center Rack
-              p.mb-0.text-center Tarifa pública del hotel.
+                  img(src='@/assets/curso/tema2/img10.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              h4.text-center Corporativa
+              p.mb-0.text-center Convenios empresariales.
 
-          .col-lg-2.mb-4.mb-lg-0.col-md-6  
-            .tarjeta.bg-color-21.p-4.h-100
+          .col.mb-4.mb-lg-0  
+            .tarjeta.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12   
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
-              h4.text-center Rack
-              p.mb-0.text-center Tarifa pública del hotel.
+                  img(src='@/assets/curso/tema2/img11.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              h4.text-center Promocional
+              p.mb-0.text-center Descuentos especiales.
 
-          .col-lg-2.mb-4.mb-lg-0.col-md-6  
-            .tarjeta.bg-color-21.p-4.h-100
+          .col.mb-4.mb-lg-0  
+            .tarjeta.bg-color-22.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
-              h4.text-center Rack
-              p.mb-0.text-center Tarifa pública del hotel.
+                  img(src='@/assets/curso/tema2/img29.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              h4.text-center No reembolsable
+              p.mb-0.text-center Tiene restricción por cancelación.
 
-          .col-lg-2.mb-4.mb-lg-0.col-md-6  
-            .tarjeta.bg-color-21.p-4.h-100
+          .col.mb-4.mb-lg-0  
+            .tarjeta.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 150px;").mx-auto
-              h4.text-center Rack
-              p.mb-0.text-center Tarifa pública del hotel.
+                  img(src='@/assets/curso/tema2/img12.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              h4.text-center #[em Best Available Rate - BAR]
+              p.mb-0.text-center Mejor tarifa disponible.
 
     .bg-full-width.bg-fondo-6.px-5.py-4.mb-3
       .container(data-aos="fade-right")
@@ -202,7 +203,7 @@
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Caso práctico
 
-            p.mb-0 Un huésped solicita una habitación para un fin de semana festivo. El recepcionista consulta en el PMS la disponibilidad y observa que el hotel tiene alta ocupación. El sistema ajusta automáticamente las tarifas según la demanda y muestra las habitaciones disponibles para las fechas seleccionadas.
+            p.mb-0 Un huésped solicita una habitación para un fin de semana festivo. El recepcionista consulta en el #[em PMS] la disponibilidad y observa que el hotel tiene alta ocupación. El sistema ajusta automáticamente las tarifas según la demanda y muestra las habitaciones disponibles para las fechas seleccionadas.
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema2/img13.png", alt="").img-fluid.w-75.mx-auto
@@ -212,13 +213,13 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.3 Confirmación y modificación de reservas
 
-    p.mb-4 Una vez registrada la información, el PMS permite confirmar la reserva y generar automáticamente un código de confirmación que sirve como soporte para el huésped y el hotel. La confirmación puede enviarse mediante correo electrónico, mensaje o impresión física.
+    p.mb-4 Una vez registrada la información, el #[em PMS] permite confirmar la reserva y generar automáticamente un código de confirmación que sirve como soporte para el huésped y el hotel. La confirmación puede enviarse mediante correo electrónico, mensaje o impresión física.
     
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 2.
-          span Flujo de confirmación de reserva en PMS  
+          h5 #[b Figura 2.]
+          span Flujo de confirmación de reserva en #[em PMS]  
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema2/img14.svg", alt="Flujo de confirmación de reserva en PMS")
         img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema2/img15.svg", alt="Flujo de confirmación de reserva en PMS")
         figcaption Nota. SENA, (2026).
@@ -274,14 +275,14 @@
     separador
     
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 Cancelaciones, anulaciones y no show en el PMS
+      h2 2.4 Cancelaciones, anulaciones y #[em no show] en el #[em PMS]
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema2/img18.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-4 El software hotelero permite gestionar cancelaciones y anulaciones de manera organizada, actualizando automáticamente la disponibilidad de habitaciones y aplicando las políticas establecidas por el hotel.
+        p.mb-4 El #[em software] hotelero permite gestionar cancelaciones y anulaciones de manera organizada, actualizando automáticamente la disponibilidad de habitaciones y aplicando las políticas establecidas por el hotel.
 
         p.mb-0 Esta función tiene como objetivo mantener la disponibilidad de habitaciones actualizadas, aplicando políticas de cancelación de forma justa y oportuna para poder ofrecer una experiencia confiable al huésped.
 
@@ -289,7 +290,7 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 3.
+          h5 #[b Figura 3.]
           span Proceso de cancelación y liberación de habitaciones   
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema2/img19.svg", alt="Proceso de cancelación y liberación de habitaciones")
         img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema2/img20.svg", alt="Proceso de cancelación y liberación de habitaciones")
@@ -302,16 +303,16 @@
       .col-lg-9
         p.mb-3(data-aos="fade-right") Las cancelaciones ocurren cuando el huésped decide suspender la reserva antes de la llegada. Por su parte, la anulación generalmente corresponde a errores administrativos o duplicidad de información dentro del sistema.
 
-        p.mb-3(data-aos="fade-right") El PMS también permite registrar casos de no show, situación en la cual el huésped no se presenta ni cancela la reserva. Estos registros son importantes para el análisis de ocupación y la aplicación de políticas de cobro o penalización.
+        p.mb-3(data-aos="fade-right") El #[em PMS] también permite registrar casos de #[em no show], situación en la cual el huésped no se presenta ni cancela la reserva. Estos registros son importantes para el análisis de ocupación y la aplicación de políticas de cobro o penalización.
 
-        p.mb-0(data-aos="fade-right") En la siguiente tabla se describen las diferencias entre la cancelación, la anulación y el no show en un establecimiento de alojamiento. 
+        p.mb-0(data-aos="fade-right") En la siguiente tabla se describen las diferencias entre la cancelación, la anulación y el #[em no show] en un establecimiento de alojamiento. 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
             b Tabla 3.
-          span Diferencias entre cancelación, anulación y no show en reservas hoteleras
+          span Diferencias entre cancelación, anulación y #[em no show] en reservas hoteleras
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
@@ -330,7 +331,7 @@
                 td Eliminación de una reserva por motivos administrativos o error operativo.
                 td Personal del hotel.
               tr
-                td No show.
+                td #[em No show].
                 td Ausencia del huésped sin previo aviso en la fecha de llegada.
                 td Huésped (por omisión).
 
@@ -343,7 +344,7 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-9.mb-4.mb-lg-0
-        p.mb-3(data-aos="fade-right") Los sistemas PMS almacenan información histórica de los huéspedes, permitiendo realizar seguimiento de estadías, preferencias y comportamiento de consumo. Esta funcionalidad fortalece la personalización del servicio y facilita estrategias de fidelización.
+        p.mb-3(data-aos="fade-right") Los sistemas #[em PMS] almacenan información histórica de los huéspedes, permitiendo realizar seguimiento de estadías, preferencias y comportamiento de consumo. Esta funcionalidad fortalece la personalización del servicio y facilita estrategias de fidelización.
         p.mb-3 Dentro del historial del huésped pueden registrarse:
         
         .row.mb-0
@@ -419,7 +420,7 @@
       .col-lg-auto.d-none.d-lg-block
         img(src="@/assets/curso/tema2/img28.svg").mx-auto
       .col-lg
-        p.mb-0 La operación de reservas mediante software hotelero permite optimizar el control de ocupación, automatizar procesos y mejorar la administración de la información dentro de los establecimientos de alojamiento. Herramientas como el PMS facilitan el registro digital de reservas, la gestión de tarifas, las modificaciones, cancelaciones y el seguimiento de huéspedes, fortaleciendo la eficiencia operativa y la calidad del servicio. En este sentido, el manejo adecuado de estas herramientas constituye una competencia esencial para el desempeño técnico profesional en el área de recepción y reservas hoteleras.
+        p.mb-0 La operación de reservas mediante #[em software] hotelero permite optimizar el control de ocupación, automatizar procesos y mejorar la administración de la información dentro de los establecimientos de alojamiento. Herramientas como el #[em PMS] facilitan el registro digital de reservas, la gestión de tarifas, las modificaciones, cancelaciones y el seguimiento de huéspedes, fortaleciendo la eficiencia operativa y la calidad del servicio. En este sentido, el manejo adecuado de estas herramientas constituye una competencia esencial para el desempeño técnico profesional en el área de recepción y reservas hoteleras.
 
 </template>
 
