@@ -39,49 +39,49 @@
       .container
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-8.mb-4.mb-lg-0
-            img(src='@/assets/curso/tema2/img05.png', alt='Alfabeto Aeronáutico').mx-auto
+            img(src='@/assets/curso/tema2/img05.png', alt="").mx-auto
           .col-lg-9.col-md-12
             p.mb-4 Durante el proceso de registro se ingresan datos como:
             SlyderF(columnas="col-lg-6 col-xl-4 col-md-12 col-sm-12")
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center   	Nombre del huésped.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Fechas de ingreso y salida.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Tipo de habitación requerida.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Número de huéspedes.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Tarifa aplicada.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Forma de pago.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center 	Canal de reserva.
               .tarjeta.bg-white.p-4.h-100
                 .row.justify-content-center.mb-3
                   .col-8  
-                    img(src='@/assets/curso/tema2/img06.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                    img(src='@/assets/curso/tema2/img06.svg' alt="", style="width: 100px;").mx-auto
                 p.mb-0.text-center Requerimientos especiales.
 
     .row.align-items-center.mb-4.justify-content-center.mb-5
@@ -154,46 +154,48 @@
               img.titulo-con-imagen__imagen(src="@/assets/curso/img-subtitulo.png")
               h3.titulo-con-imagen__texto Tipos de tarifas que administra el #[em PMS] 
 
+  
+
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-10
-        .row.justify-content-center.row-cols-lg-5.row-cols-md-2.row-cols-1
+        .row.justify-content-center.row-cols-lg-5.row-cols-md-2.row-cols-1.no-pointer
           .col.mb-4.mb-lg-0
-            .tarjeta.bg-color-21.p-3.h-100
+            .tarjeta.tarjeta--boton.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img09.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+                  img(src='@/assets/curso/tema2/img09.png' alt="", style="width: 120px;").mx-auto
               h4.text-center #[em Rack]
               p.mb-0.text-center Tarifa pública del hotel.
 
           .col.mb-4.mb-lg-0  
-            .tarjeta.bg-color-21.p-3.h-100
+            .tarjeta.tarjeta--boton.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img10.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+                  img(src='@/assets/curso/tema2/img10.png' alt="", style="width: 120px;").mx-auto
               h4.text-center Corporativa
               p.mb-0.text-center Convenios empresariales.
 
           .col.mb-4.mb-lg-0  
-            .tarjeta.bg-color-21.p-3.h-100
+            .tarjeta.tarjeta--boton.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12   
-                  img(src='@/assets/curso/tema2/img11.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+                  img(src='@/assets/curso/tema2/img11.png' alt="", style="width: 120px;").mx-auto
               h4.text-center Promocional
               p.mb-0.text-center Descuentos especiales.
 
           .col.mb-4.mb-lg-0  
-            .tarjeta.bg-color-22.p-3.h-100
+            .tarjeta.tarjeta--boton.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img29.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+                  img(src='@/assets/curso/tema2/img29.png' alt="", style="width: 120px;").mx-auto
               h4.text-center No reembolsable
               p.mb-0.text-center Tiene restricción por cancelación.
 
           .col.mb-4.mb-lg-0  
-            .tarjeta.bg-color-21.p-3.h-100
+            .tarjeta.tarjeta--boton.bg-color-21.p-3.h-100
               .row.justify-content-center.mb-3
                 .col-12  
-                  img(src='@/assets/curso/tema2/img12.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+                  img(src='@/assets/curso/tema2/img12.png' alt="", style="width: 120px;").mx-auto
               h4.text-center #[em Best Available Rate - BAR]
               p.mb-0.text-center Mejor tarifa disponible.
 
@@ -236,35 +238,35 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Fechas.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Tipo de habitación.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Número de huéspedes.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Servicios adicionales.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Forma de pago.
@@ -351,42 +353,42 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Reservas anteriores.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Preferencias de habitación.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Solicitudes especiales.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Historial de pagos.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Frecuencia de visitas.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img27.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img27.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Observaciones operativas.

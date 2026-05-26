@@ -195,13 +195,13 @@
                   p.mb-0 La integración tecnológica facilita que las actualizaciones realizadas por un departamento se reflejen inmediatamente en todo el sistema. Por ejemplo, cuando #[em housekeeping] cambia el estado de una habitación a “vacía limpia”, recepción puede visualizar automáticamente la disponibilidad y asignarla a una nueva reserva.
                 .col-lg-auto.d-none.d-lg-block
                   figure
-                    img(src="@/assets/curso/tema4/img13.svg", alt="PMS").mx-auto
+                    img(src="@/assets/curso/tema4/img13.svg", alt="").mx-auto
               .row.justify-content-center.align-items-center.p-4.p-lg-3
                 .col-lg
                   p.mb-0 Esta conectividad mejora la comunicación interna, reduce tiempos de respuesta y optimiza la experiencia del huésped. Además, permite disminuir errores operativos relacionados con duplicidad de información o falta de coordinación entre áreas.
                 .col-lg-auto.d-none.d-lg-block
                   figure
-                    img(src="@/assets/curso/tema4/img14.svg", alt="PMS").mx-auto
+                    img(src="@/assets/curso/tema4/img14.svg", alt="").mx-auto
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -340,21 +340,21 @@
               p.mb-0 La ciberseguridad comprende el conjunto de prácticas orientadas a proteger redes, dispositivos, aplicaciones y bases de datos frente a amenazas, accesos no autorizados o ataques informáticos. Según Kaspersky Labs (2021), la seguridad de la información busca preservar la confidencialidad, integridad y disponibilidad de los datos almacenados y transmitidos a través de sistemas tecnológicos.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema4/img24.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema4/img24.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0 En hotelería, gran parte de la operación funciona mediante modelos cliente/servidor, donde la información se almacena en servidores centrales conectados a diferentes equipos y dispositivos utilizados por recepción, reservas, administración y otros departamentos. Esta conectividad facilita la operación en tiempo real, pero también puede exponer los sistemas a riesgos como #[em malware], robo de información, fraudes digitales o pérdida de datos. Por esta razón, los hoteles implementan mecanismos de protección como sistemas antivirus, firewalls, controles de acceso y procesos de encriptación de la información.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema4/img25.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema4/img25.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0 Otro aspecto importante corresponde a la seguridad de las aplicaciones y plataformas utilizadas en la gestión hotelera. Los sistemas #[em PMS], motores de reserva y plataformas de pago deben contar con protocolos de seguridad que permitan proteger la información de huéspedes y garantizar transacciones seguras. Un fallo en la protección de estas herramientas podría afectar la operación del hotel y comprometer la confianza de los clientes  .
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema4/img26.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema4/img26.png", alt="").mx-auto
 
 
     .row.align-items-center.mb-5.justify-content-center

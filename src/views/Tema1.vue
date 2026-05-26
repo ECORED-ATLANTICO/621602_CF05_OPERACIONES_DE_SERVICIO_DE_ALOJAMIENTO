@@ -48,42 +48,42 @@
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img05.svg' alt='Imagen de reserva confirmada', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img05.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Gestión de reservas]
             p.text-center Permite registrar, modificar y consultar reservas de manera rápida y segura.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img06.svg' alt='Imagen de control de ocupación', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img06.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Control de ocupación]
             p.text-center Muestra en tiempo real la disponibilidad y el estado de las habitaciones.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img07.svg' alt='Imagen de facturación', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img07.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Facturación]
             p.text-center Facilita la generación de cuentas, cobros, pagos y cierre de cajas.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img08.svg' alt='Imagen de integration', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img08.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Integración] 
             p.text-center Se conecta con otros sistemas del hotel y canales de venta (#[em OTA], #[em Channel Manager], etc.).
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img09.svg' alt='Imagen de reportes', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img09.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Reportes]
             p.text-center Genera reportes operativos, financieros y administrativos para la toma de decisiones.
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
               .col-8
-                img(src='@/assets/curso/tema1/img10.svg' alt='Imagen de registro de huéspedes', style="width: 100px;").mx-auto
+                img(src='@/assets/curso/tema1/img10.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Registro de huéspedes]
             p.text-center Administra la información de los huéspedes, sus datos y preferencias.
 
@@ -152,7 +152,7 @@
               p.mb-0 Es el sistema principal de gestión hotelera. Permite controlar reservas, recepción, ocupación, facturación y reportes operativos.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema1/img19.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema1/img19.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
@@ -160,7 +160,7 @@
               p.mb-0 Sistema centralizado utilizado para administrar reservas provenientes de diferentes canales de distribución.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema1/img20.png", alt="CRS").mx-auto
+                img(src="@/assets/curso/tema1/img20.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
@@ -168,7 +168,7 @@
               p.mb-0 Herramienta que sincroniza disponibilidad y tarifas entre diferentes #[em OTA] y plataformas digitales.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema1/img21.png", alt="Channel Manager").mx-auto
+                img(src="@/assets/curso/tema1/img21.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
@@ -176,7 +176,7 @@
               p.mb-0 #[em Software] utilizado para administrar la relación con los clientes y gestionar estrategias de fidelización.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema1/img22.png", alt="CRM hotelero").mx-auto
+                img(src="@/assets/curso/tema1/img22.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
@@ -184,7 +184,7 @@
               p.mb-0 Sistema que integra procesos administrativos, financieros y operativos dentro del hotel.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema1/img23.png", alt="ERP hotelero").mx-auto
+                img(src="@/assets/curso/tema1/img23.png", alt="").mx-auto
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12.mb-4

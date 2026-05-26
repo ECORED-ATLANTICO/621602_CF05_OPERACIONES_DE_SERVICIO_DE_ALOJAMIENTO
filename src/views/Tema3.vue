@@ -54,7 +54,7 @@
         .tarjeta.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
-              img(src='@/assets/curso/tema3/img05.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              img(src='@/assets/curso/tema3/img05.png' alt="", style="width: 120px;").mx-auto
           h4.text-center Seguimiento financiero
           p.mb-0.text-center El #[em dashboard] puede consolidar información económica relacionada con ventas de habitaciones y servicios adicionales.
 
@@ -62,7 +62,7 @@
         .tarjeta.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
-              img(src='@/assets/curso/tema3/img06.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              img(src='@/assets/curso/tema3/img06.png' alt="", style="width: 120px;").mx-auto
           h4.text-center Seguimiento en tiempo real
           p.mb-0.text-center El sistema genera notificaciones automáticas sobre situaciones que requieren atención inmediata por parte del personal.
       
@@ -70,7 +70,7 @@
         .tarjeta.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
-              img(src='@/assets/curso/tema3/img07.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              img(src='@/assets/curso/tema3/img07.png' alt="", style="width: 120px;").mx-auto
           h4.text-center Gestión de inventario hotelero
           p.mb-0.text-center Facilita el monitoreo de reservas activas y la disponibilidad futura del hotel.
 
@@ -78,7 +78,7 @@
         .tarjeta.bg-color-21.p-4.h-100
           .row.justify-content-center.mb-3
             .col-12  
-              img(src='@/assets/curso/tema3/img08.png' alt='Imagen de reserva confirmada', style="width: 120px;").mx-auto
+              img(src='@/assets/curso/tema3/img08.png' alt="", style="width: 120px;").mx-auto
           h4.text-center Experiencia del cliente
           p.mb-0.text-center Algunos #[em PMS] integran indicadores relacionados con opiniones y experiencia del huésped.
 
@@ -113,35 +113,35 @@
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Planificar personal.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Ajustar tarifas.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Diseñar promociones.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Controlar disponibilidad.
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
             .tarjeta-avatar-b(data-aos="zoom-in").h-100
               .tarjeta-avatar-b__img
-                img(src='@/assets/curso/tema2/img17.svg' alt='AvatarTop')
+                img(src='@/assets/curso/tema2/img17.svg' alt="")
               .tarjeta.tarjeta--azul.align-content-center
                 .p-3
                   p.mb-0.text-bold Optimizar ingresos.
@@ -168,14 +168,14 @@
               p.mb-0 Los reportes operativos permiten supervisar las actividades relacionadas directamente con la prestación del servicio, especialmente en áreas como recepción, reservas y #[em housekeeping]. A través de estos informes, el personal puede conocer las llegadas y salidas programadas, las habitaciones disponibles, los cambios de estado y las novedades que requieren atención inmediata. Por ejemplo, el reporte diario de ocupación permite identificar cuántas habitaciones están disponibles, cuáles se encuentran ocupadas y cuáles requieren limpieza o mantenimiento.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema3/img14.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema3/img14.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               p.mb-0 Por su parte, los reportes administrativos y financieros se enfocan en el análisis de ingresos, producción hotelera y comportamiento comercial del establecimiento. Estos informes permiten evaluar indicadores relacionados con ventas, tarifas promedio, cancelaciones, #[em no show] y desempeño de los canales de comercialización. Según Kasavana y Cahill (2017), la automatización de reportes facilita el análisis estratégico de la operación y mejora la capacidad de respuesta frente a cambios en la demanda hotelera.
             .col-md-8.col-lg-5
               figure
-                img(src="@/assets/curso/tema3/img15.png", alt="PMS").mx-auto
+                img(src="@/assets/curso/tema3/img15.png", alt="").mx-auto
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-2.mb-3.mb-lg-0.d-none.d-lg-block
@@ -317,18 +317,18 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10
-        PasosA.color-primario(tipo="n")
+        PasosA.color-primario(tipo="l")
           .row(titulo="08:15 a. m. – Habitación pendiente de limpieza").align-items-center
             .col-lg.order-2.order-lg-1
               h3 08:15 a. m. – Habitación pendiente de limpieza
               p La habitación 305 presenta más de 30 minutos de retraso en limpieza. El área de #[em housekeeping] recibe la alerta para priorizar la atención y liberar la habitación lo antes posible.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación pendiente de limpieza')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
           .row(titulo="08:45 a. m. – Check-in realizado").align-items-center
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Check-in realizado')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
             .col-lg.order-2.order-lg-2
               h3 08:45 a. m. – Check-in realizado
               p El huésped de la reserva número 12540 realizó correctamente el proceso de #[em check-in]. La información queda actualizada en recepción y el sistema registra la habitación como ocupada.
@@ -338,11 +338,11 @@
               p El sistema informa la llegada programada de un huésped en los próximos 15 minutos para la reserva 12548 en la habitación 412. Recepción prepara el ingreso y verifica disponibilidad.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Check-in próximo')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
           .row(titulo="10:20 a. m. – Pago pendiente").align-items-center
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Pago pendiente')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
             .col-lg.order-2.order-lg-2
               h3 10:20 a. m. – Pago pendiente
               p La reserva número 12490 presenta un pago pendiente de confirmación. El área de reservas debe validar la garantía y verificar el estado del cobro antes del ingreso del huésped.
@@ -352,11 +352,11 @@
               p La habitación 502 reporta daños en el sistema de aire acondicionado. El #[em PMS] registra la novedad y cambia temporalmente el estado de la habitación a mantenimiento.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación en mantenimiento')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
           .row(titulo="12:30 p. m. – Sobreocupación prevista").align-items-center
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Sobreocupación prevista')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
             .col-lg.order-2.order-lg-2
               h3 12:30 p. m. – Sobreocupación prevista
               p El sistema proyecta una ocupación del 95 % para el día siguiente. La gerencia recibe una alerta preventiva para controlar disponibilidad y evitar sobreventas.
@@ -366,11 +366,11 @@
               p #[em Housekeeping] actualiza la habitación 305 como limpia y disponible para nuevas reservas o asignaciones de #[em check-in].
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Habitación lista')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
           .row(titulo="03:15 p. m. – Mantenimiento programado").align-items-center
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen Mantenimiento programado')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
             .col-lg.order-2.order-lg-2
               h3 03:15 p. m. – Mantenimiento programado
               p La habitación 208 se encuentra temporalmente fuera de servicio por mantenimiento programado. El sistema restringe su venta hasta finalizar la intervención técnica.
@@ -380,7 +380,7 @@
               p El huésped de la reserva número 12470 no se presentó al #[em check-in] ni realizó cancelación previa. El #[em PMS] registra automáticamente el caso como #[em no show] y actualiza la disponibilidad.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
-                img(src='@/assets/curso/tema3/img22.svg', alt='Imagen No show')
+                img(src='@/assets/curso/tema3/img22.svg', alt="")
 
 
     .row.mb-5.justify-content-center.align-items-center
