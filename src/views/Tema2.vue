@@ -413,7 +413,7 @@
               p(data-aos="fade-left").mb-4 A continuación, lo invitamos a consultar el siguiente pódcast sobre la importancia del historial del huésped y el seguimiento de reservas en la operación hotelera: 
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Métodos y técnicas de cocción en la gastronomía colombiana"
+                texto="Importancia del historial del huésped y el seguimiento de reservas en la operación hotelera"
                 tiempo
                 :audio="require('@/assets/curso/audio/1.mp3')"
               )
