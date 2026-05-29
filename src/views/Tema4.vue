@@ -312,7 +312,7 @@
               p(data-aos="fade-left").mb-4 Lo invitamos a acceder al siguiente pódcast, cuyo contenido le permitirá fortalecer la comprensión sobre las herramientas digitales y las innovaciones tecnológicas aplicadas actualmente en la industria hotelera.
               
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
-                texto="Métodos y técnicas de cocción en la gastronomía colombiana"
+                texto="Transformación digital y experiencia del huésped en la hotelería moderna"
                 tiempo
                 :audio="require('@/assets/curso/audio/1.mp3')"
               )
