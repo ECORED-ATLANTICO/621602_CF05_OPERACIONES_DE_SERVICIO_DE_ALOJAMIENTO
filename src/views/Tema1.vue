@@ -39,7 +39,7 @@
 
     
     .row.mb-5
-      .col-lg-7
+      .col-lg-12
         p.mb-0 El #[em software] hotelero o PMS centraliza la información y automatiza los procesos clave para una operación eficiente en el establecimiento de alojamiento. Sus funciones básicas son:
 
     .row.justify-content-center.align-items-center.mb-5
@@ -125,7 +125,7 @@
           p(numero="1990 – 1995" titulo="Integración de internet") Surgen sistemas como Fidelio™ en entornos MS-DOS, que integran módulos clave como reservas, recepción, caja y control de habitaciones, respondiendo a la expansión del mercado hotelero.
           p(numero="1996 – 1999" titulo="Aparición de Opera™") Se anuncia Opera™, generando altas expectativas en el sector por su propuesta integral; aunque innovador, en sus inicios no logró cumplir completamente lo esperado por los usuarios.
           p(numero="2000 – 2005" titulo="Reservas en línea y OTA") Opera™ se consolida como PMS líder, integrando estabilidad, múltiples interfaces y bases de datos avanzadas como Oracle, impulsando la gestión hotelera digital y las reservas en línea.
-          p(numero="2006" titulo="Diversificación del #[em software] hotelero") Con el avance de la computación en la nube, surgen nuevas soluciones a nivel nacional e internacional, como Zeus® y Ezee™, ampliando el portafolio tecnológico del sector.
+          p(numero="2006" titulo="Diversificación del <em> software</em> hotelero") Con el avance de la computación en la nube, surgen nuevas soluciones a nivel nacional e internacional, como Zeus® y Ezee™, ampliando el portafolio tecnológico del sector.
           p(numero="Actualidad" titulo="Cloud PMS e inteligencia artificial") Los sistemas actuales automatizan integralmente operaciones como reservas, facturación, ventas, alimentos y bebidas, inventarios, talento humano, mantenimiento y calidad, apoyados en la nube y la IA.
       .col-lg-3.d-none.d-lg-block
         figure
