@@ -104,12 +104,12 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Dashboard operativo hotelero',
+            titulo: '<em>Dashboard</em> operativo hotelero',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Forecasting y pronóstico de ocupación',
+            titulo: '<em>Forecasting</em> y pronóstico de ocupación',
             hash: 't_3_2',
           },
           {
@@ -119,7 +119,7 @@ export default {
           },
           {
             numero: '3.4',
-            titulo: 'Control de habitaciones y housekeeping',
+            titulo: 'Control de habitaciones y <em>housekeeping</em>',
             hash: 't_3_4',
           },
           {
