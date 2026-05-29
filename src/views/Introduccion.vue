@@ -1,4 +1,4 @@
-<template lang="pug">
+﻿<template lang="pug">
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
@@ -18,7 +18,7 @@
       .col-lg-auto.d-none.d-lg-block
         img(src="@/assets/curso/intro/img01.svg").mx-auto
       .col-lg
-        p.mb-0 A lo largo de este componente se abordarán temas relacionados con la evolución del #[em software] hotelero, el funcionamiento de los sistemas #[em PMS], la gestión digital de reservas, el control de ocupación y las nuevas herramientas tecnológicas utilizadas en hotelería. De esta manera, el aprendiz fortalecerá competencias técnicas y digitales necesarias para desenvolverse eficientemente en entornos operativos del sector de alojamiento.
+        p.mb-0 A lo largo de este componente se abordarán temas relacionados con la evolución del #[em software] hotelero, el funcionamiento de los sistemas PMS, la gestión digital de reservas, el control de ocupación y las nuevas herramientas tecnológicas utilizadas en hotelería. De esta manera, el aprendiz fortalecerá competencias técnicas y digitales necesarias para desenvolverse eficientemente en entornos operativos del sector de alojamiento.
       
 
 </template>

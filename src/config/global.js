@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Software hotelero y las reservaciones en hoteles',
     Description:
-      'El componente formativo <em>Software</em> hotelero y reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del <em>software</em> hotelero, el funcionamiento del <em>PMS</em>, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
+      'El componente formativo <em>Software</em> hotelero y reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del <em>software</em> hotelero, el funcionamiento del PMS, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -32,22 +32,22 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Fundamentos del software hotelero',
+        titulo: 'Fundamentos del <em>software</em> hotelero',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Concepto de software hotelero',
+            titulo: 'Concepto de <em>software</em> hotelero',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Evolución histórica del software hotelero',
+            titulo: 'Evolución histórica del <em>software</em> hotelero',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Tipos de software utilizados en hotelería',
+            titulo: 'Tipos de <em>software</em> utilizados en hotelería',
             hash: 't_1_3',
           },
           {
@@ -66,7 +66,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Operación de reservas en el software hotelero',
+        titulo: 'Operación de reservas en el <em>software</em> hotelero',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -86,7 +86,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Cancelaciones, anulaciones y no show en el PMS',
+            titulo: 'Cancelaciones, anulaciones y <em>no show</em> en el PMS',
             hash: 't_2_4',
           },
           {
@@ -99,7 +99,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Control operativo and monitoreo técnico',
+        titulo: 'Control operativo y monitoreo técnico',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -142,7 +142,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Channel Manager',
+            titulo: '<em>Channel Manager</em>',
             hash: 't_4_2',
           },
           {
@@ -236,7 +236,7 @@ export default {
     {
       termino: 'Canal de distribución',
       significado:
-        'Medio utilizado para comercializar habitaciones y servicios hoteleros, como <em>OTA</em>, agencias o venta directa.',
+        'Medio utilizado para comercializar habitaciones y servicios hoteleros, como OTA, agencias o venta directa.',
     },
     {
       termino: '<em>Channel Manager</em>',
@@ -261,22 +261,22 @@ export default {
     {
       termino: 'Código de reserva',
       significado:
-        'Identificador alfanumérico generado por el sistema <em>PMS</em> para reconocer una reserva específica.',
+        'Identificador alfanumérico generado por el sistema PMS para reconocer una reserva específica.',
     },
     {
-      termino: '<em>Cloud PMS</em>',
+      termino: '<em>Cloud</em> PMS',
       significado:
         'Sistema de gestión hotelera alojado en la nube que permite acceder a la información desde internet.',
     },
     {
-      termino: '<em>CRM</em>',
+      termino: 'CRM',
       significado:
         'Sigla de <em>Customer Relationship Management</em>; sistema utilizado para gestionar la relación y seguimiento de clientes.',
     },
     {
       termino: '<em>Dashboard</em> hotelero',
       significado:
-        'Panel visual del <em>PMS</em> que muestra indicadores operativos y administrativos en tiempo real.',
+        'Panel visual del PMS que muestra indicadores operativos y administrativos en tiempo real.',
     },
     {
       termino: 'Distribución digital',
@@ -289,7 +289,7 @@ export default {
         'Proyección o pronóstico de ocupación hotelera basado en datos históricos y reservas confirmadas.',
     },
     {
-      termino: '<em>GDS</em>',
+      termino: 'GDS',
       significado:
         'Sigla de <em>Global Distribution System</em>; sistema global utilizado para comercializar servicios turísticos y hoteleros.',
     },
@@ -329,24 +329,24 @@ export default {
         'Plataforma tecnológica utilizada para gestionar reservas directas desde la página web del hotel.',
     },
     {
-      termino: '<em>OTA</em>',
+      termino: 'OTA',
       significado:
         'Sigla de <em>Online Travel Agency</em>; agencia de viajes <em>online</em> que comercializa servicios turísticos y hoteleros.',
     },
     {
-      termino: '<em>PMS</em>',
+      termino: 'PMS',
       significado:
         'Sigla de <em>Property Management System</em>; sistema utilizado para administrar la operación hotelera y las reservas.',
     },
     {
       termino: 'Reporte operativo',
       significado:
-        'Informe generado por el <em>PMS</em> que consolida información relacionada con ocupación, reservas y operación hotelera.',
+        'Informe generado por el PMS que consolida información relacionada con ocupación, reservas y operación hotelera.',
     },
     {
       termino: 'Reserva digital',
       significado:
-        'Solicitud de alojamiento registrada mediante plataformas tecnológicas o sistemas <em>PMS</em>.',
+        'Solicitud de alojamiento registrada mediante plataformas tecnológicas o sistemas PMS.',
     },
     {
       termino: '<em>Revenue Management</em>',

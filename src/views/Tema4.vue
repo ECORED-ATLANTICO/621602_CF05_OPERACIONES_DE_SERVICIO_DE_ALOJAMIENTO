@@ -13,7 +13,7 @@
           img(src="@/assets/curso/tema4/img01.png", data-aos="zoom-in")
 
       .col-lg-9
-        p.mb-3 La transformación digital ha modificado significativamente la forma en que los establecimientos de alojamiento comercializan sus servicios y administran la información operativa. Actualmente, los hoteles no solo dependen de las reservas directas realizadas en recepción o por teléfono, sino que utilizan múltiples plataformas tecnológicas que permiten ampliar su alcance comercial y conectarse con clientes en diferentes partes del mundo. En este contexto, herramientas como las <em>OTA</em>, los motores de reserva, los sistemas <em>GDS</em> y los <em>Channel Manager</em> facilitan la distribución digital de habitaciones y optimizan la gestión de reservas en tiempo real.
+        p.mb-3 La transformación digital ha modificado significativamente la forma en que los establecimientos de alojamiento comercializan sus servicios y administran la información operativa. Actualmente, los hoteles no solo dependen de las reservas directas realizadas en recepción o por teléfono, sino que utilizan múltiples plataformas tecnológicas que permiten ampliar su alcance comercial y conectarse con clientes en diferentes partes del mundo. En este contexto, herramientas como las OTA, los motores de reserva, los sistemas GDS y los <em>Channel Manager</em> facilitan la distribución digital de habitaciones y optimizan la gestión de reservas en tiempo real.
         .bg-fondo-15.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
           p.mb-0(data-aos="fade-right") La integración tecnológica también permite fortalecer la comunicación entre las diferentes áreas del hotel, centralizar la información y mejorar la experiencia del huésped. Según SiteMinder (2024), la conectividad digital y la automatización de procesos se han convertido en elementos esenciales para la competitividad de los establecimientos hoteleros modernos.
 
@@ -22,19 +22,19 @@
     separador
     
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1 #[em OTA] y motores de reserva
+      h2 4.1 OTA y motores de reserva
 
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-10.mb-3.mb-lg-0
-        p.mb-3(data-aos="fade-right") Las #[em OTA] (#[em Online Travel Agencies]) son plataformas digitales que permiten comercializar servicios turísticos y hoteleros a través de internet. Estas agencias facilitan que los huéspedes consulten disponibilidad, comparen tarifas y realicen reservas desde cualquier lugar y dispositivo conectado a la red.
+        p.mb-3(data-aos="fade-right") Las OTA (#[em Online Travel Agencies]) son plataformas digitales que permiten comercializar servicios turísticos y hoteleros a través de internet. Estas agencias facilitan que los huéspedes consulten disponibilidad, comparen tarifas y realicen reservas desde cualquier lugar y dispositivo conectado a la red.
 
         .bg-fondo-16.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
           .row.align-items-center
             .col-lg-auto.d-none.d-lg-block
               img(src="@/assets/curso/tema4/img03.svg").mx-auto
             .col-lg
-              p.mb-3 Entre las #[em OTA] más utilizadas en hotelería se encuentran: <em>Booking</em>, <em>Expedia</em>, Despegar, <em>Airbnb</em> y <em>Hotels.com</em>.
+              p.mb-3 Entre las OTA más utilizadas en hotelería se encuentran: <em>Booking</em>, <em>Expedia</em>, Despegar, <em>Airbnb</em> y <em>Hotels.com</em>.
               p.mb-0 Estas plataformas funcionan como intermediarios entre el hotel y el cliente, ampliando la visibilidad del establecimiento y facilitando el acceso a mercados nacionales e internacionales. Sin embargo, generalmente cobran comisiones por cada reserva realizada.
 
       .col-lg-2.col-md-6
@@ -53,14 +53,14 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
             b Tabla 6.
-          span Cuadro comparativo de #[em OTA] y motores de reservas
+          span Cuadro comparativo de OTA y motores de reservas
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
             thead
               tr
                 th Aspecto
-                th <em>OTA</em>
+                th OTA
                 th Motor de reservas
             tbody
               tr
@@ -90,7 +90,7 @@
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Caso práctico
 
-            p.mb-0 Un huésped encuentra una habitación del Hotel Mirador Plaza en #[em Booking] y realiza la reserva desde la plataforma. Simultáneamente, otro cliente reserva directamente desde la página web del hotel mediante el motor de reservas. Ambas reservas se sincronizan automáticamente con el #[em PMS], actualizando la disponibilidad en tiempo real.
+            p.mb-0 Un huésped encuentra una habitación del Hotel Mirador Plaza en #[em Booking] y realiza la reserva desde la plataforma. Simultáneamente, otro cliente reserva directamente desde la página web del hotel mediante el motor de reservas. Ambas reservas se sincronizan automáticamente con el PMS, actualizando la disponibilidad en tiempo real.
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema4/img06.png", alt="").img-fluid.w-75.mx-auto
@@ -104,7 +104,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema4/img07.svg", class="img-fluid cita-decorada__imagen-flotante-3")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Lo invitamos a consultar el siguiente blog para ampliar sus conocimientos sobre las agencias de viaje en línea (#[em OTA]), cómo funcionan, cuáles son sus principales ventajas y algunos ejemplos:
+                p.mb-0 Lo invitamos a consultar el siguiente blog para ampliar sus conocimientos sobre las agencias de viaje en línea (OTA), cómo funcionan, cuáles son sus principales ventajas y algunos ejemplos:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://stays.net/blog/es/que-son-las-otas-y-cuales-son-las-principales/" target="_blank")
                   span Ver blog
@@ -120,16 +120,16 @@
         img(src="@/assets/curso/tema4/img08.png").mx-auto
       .col-lg-9
         p.mb-3 El <em>Channel Manager</em> es una herramienta tecnológica que permite sincronizar automáticamente la disponibilidad, tarifas y reservas del hotel en diferentes canales de distribución digital. Su principal función es evitar inconsistencias entre plataformas y reducir riesgos de sobreventa.
-        p.mb-0 Antes de la implementación de estos sistemas, los hoteles debían actualizar manualmente la información en cada #[em OTA], lo que generaba mayor carga operativa y posibilidad de errores. Actualmente, el #[em Channel Manager] centraliza la distribución y permite que cualquier modificación realizada en el #[em PMS] se actualice automáticamente en todos los canales conectados.
+        p.mb-0 Antes de la implementación de estos sistemas, los hoteles debían actualizar manualmente la información en cada OTA, lo que generaba mayor carga operativa y posibilidad de errores. Actualmente, el #[em Channel Manager] centraliza la distribución y permite que cualquier modificación realizada en el PMS se actualice automáticamente en todos los canales conectados.
 
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 6.]
-          span <em>PMS</em> conectado a <em>OTA</em> mediante <em>Channel Manager</em>  
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema4/img09.png", alt="Flujo de confirmación de reserva en PMS")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema4/img10.png", alt="Flujo de confirmación de reserva en PMS")
+          span PMS conectado a OTA mediante <em>Channel Manager</em>  
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema4/img09.png", alt="La figura detalla una Infografía del ecosistema tecnológico hotelero donde el PMS o Property Management System se conecta mediante un Channel Manager con diferentes OTA y canales digitales como Booking, Expedia, Agoda, Airbnb y Hotels.com. El sistema sincroniza en tiempo real reservas, disponibilidad y tarifas. También integra áreas internas del hotel como recepción, Housekeeping, mantenimiento, administración y gerencia, permitiendo compartir información operativa de manera centralizada. La imagen destaca beneficios como reducción de errores, mayor control operativo y mejor experiencia del huésped.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema4/img10.png", alt="La figura detalla una Infografía del ecosistema tecnológico hotelero donde el PMS o Property Management System se conecta mediante un Channel Manager con diferentes OTA y canales digitales como Booking, Expedia, Agoda, Airbnb y Hotels.com. El sistema sincroniza en tiempo real reservas, disponibilidad y tarifas. También integra áreas internas del hotel como recepción, Housekeeping, mantenimiento, administración y gerencia, permitiendo compartir información operativa de manera centralizada. La imagen destaca beneficios como reducción de errores, mayor control operativo y mejor experiencia del huésped.")
         figcaption Nota. SENA, (2026).
     
 
@@ -184,7 +184,7 @@
 
     .row.align-items-center.mb-5
       .col-lg-3.col-md-12.mb-4.mb-lg-0
-        p.mb-0 Uno de los principales aportes de los sistemas tecnológicos en hotelería es la integración de información entre los diferentes departamentos del establecimiento. Gracias al #[em PMS], áreas como recepción, reservas, #[em housekeeping], mantenimiento y facturación pueden compartir datos en tiempo real y coordinar sus actividades de manera más eficiente.
+        p.mb-0 Uno de los principales aportes de los sistemas tecnológicos en hotelería es la integración de información entre los diferentes departamentos del establecimiento. Gracias al PMS, áreas como recepción, reservas, #[em housekeeping], mantenimiento y facturación pueden compartir datos en tiempo real y coordinar sus actividades de manera más eficiente.
 
       .col-lg-9.col-md-12
         .bg-fondo-5.tarjeta.mb-0
@@ -212,24 +212,24 @@
     separador
     
     #t_4_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.4 Sistemas globales de distribución (#[em GDS])
+      h2 4.4 Sistemas globales de distribución (GDS)
 
 
     .row.align-items-center.mb-5.justify-content-center
       .col-lg-2.col-md-6.mb-4.mb-lg-0.d-none.d-lg-block
         img(src="@/assets/curso/tema4/img15.png").mx-auto
       .col-lg-10
-        p.mb-3 Los sistemas globales de distribución, conocidos como #[em GDS] (#[em Global Distribution System]), son plataformas tecnológicas utilizadas para comercializar servicios turísticos a nivel internacional. Estos sistemas permiten conectar hoteles, aerolíneas, agencias de viajes y empresas de transporte dentro de una misma red de distribución.
-        p.mb-3 Los #[em GDS] facilitan que agencias y operadores turísticos consulten disponibilidad, tarifas y reservas en tiempo real, ampliando el alcance comercial de los establecimientos hoteleros. Entre los sistemas más reconocidos se encuentran: Amadeus, Sabre, Galileo y Worldspan.
+        p.mb-3 Los sistemas globales de distribución, conocidos como GDS (#[em Global Distribution System]), son plataformas tecnológicas utilizadas para comercializar servicios turísticos a nivel internacional. Estos sistemas permiten conectar hoteles, aerolíneas, agencias de viajes y empresas de transporte dentro de una misma red de distribución.
+        p.mb-3 Los GDS facilitan que agencias y operadores turísticos consulten disponibilidad, tarifas y reservas en tiempo real, ampliando el alcance comercial de los establecimientos hoteleros. Entre los sistemas más reconocidos se encuentran: Amadeus, Sabre, Galileo y Worldspan.
 
         .bg-fondo-17.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-3(data-aos="fade-down")
           .row.align-items-center
             .col-lg-auto.d-none.d-lg-flex
               img(src="@/assets/curso/tema4/img16.svg", data-aos="zoom-in").mx-auto
             .col-lg-10.col-md-12
-              p.mb-0 En hotelería, los #[em GDS] son especialmente utilizados para reservas corporativas, viajes de negocios y agencias mayoristas. Además, permiten integrar información tarifaria y disponibilidad desde el #[em PMS] hacia diferentes mercados internacionales.
+              p.mb-0 En hotelería, los GDS son especialmente utilizados para reservas corporativas, viajes de negocios y agencias mayoristas. Además, permiten integrar información tarifaria y disponibilidad desde el PMS hacia diferentes mercados internacionales.
 
-        p.mb-0 Aunque actualmente las #[em OTA] han ganado gran participación en el mercado turístico, los <em>GDS</em> continúan siendo herramientas importantes dentro de la distribución global de servicios de alojamiento.
+        p.mb-0 Aunque actualmente las OTA han ganado gran participación en el mercado turístico, los GDS continúan siendo herramientas importantes dentro de la distribución global de servicios de alojamiento.
 
 
     .row.justify-content-center.mb-5
@@ -240,7 +240,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema4/img07.svg", class="img-fluid cita-decorada__imagen-flotante-3")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Para profundizar qué son los #[em GDS] en turismo y cuáles son los más importantes, lo invitamos a consultar el siguiente artículo especializado: 
+                p.mb-0 Para profundizar qué son los GDS en turismo y cuáles son los más importantes, lo invitamos a consultar el siguiente artículo especializado: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.entornoturistico.com/que-son-los-gds-en-turismo-y-cuales-son-los-mas-importantes/" target="_blank")
                   span Ver blog
@@ -268,7 +268,7 @@
                   ul.lista-ul.mb-0  
                     li
                       i.lista-ul__vineta
-                      | #[em PMS] en la nube (#[em Cloud PMS]).
+                      | PMS en la nube (#[em Cloud] PMS).
                     li
                       i.lista-ul__vineta
                       | #[em Check-in] digital.
@@ -351,7 +351,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0 Otro aspecto importante corresponde a la seguridad de las aplicaciones y plataformas utilizadas en la gestión hotelera. Los sistemas #[em PMS], motores de reserva y plataformas de pago deben contar con protocolos de seguridad que permitan proteger la información de huéspedes y garantizar transacciones seguras. Un fallo en la protección de estas herramientas podría afectar la operación del hotel y comprometer la confianza de los clientes  .
+              p.mb-0 Otro aspecto importante corresponde a la seguridad de las aplicaciones y plataformas utilizadas en la gestión hotelera. Los sistemas PMS, motores de reserva y plataformas de pago deben contar con protocolos de seguridad que permitan proteger la información de huéspedes y garantizar transacciones seguras. Un fallo en la protección de estas herramientas podría afectar la operación del hotel y comprometer la confianza de los clientes  .
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema4/img26.png", alt="").mx-auto
@@ -364,7 +364,7 @@
         p.mb-3 La protección de datos personales constituye uno de los aspectos más sensibles dentro de la industria hotelera. Los huéspedes esperan que su información sea administrada de manera segura y confidencial durante todo el proceso de reserva y alojamiento. Casos de ataques informáticos a grandes cadenas hoteleras han evidenciado la importancia de fortalecer las medidas de seguridad digital y establecer políticas claras de protección de la información.
         
         .bg-fondo-17.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
-          p.mb-0(data-aos="fade-right") Asimismo, la seguridad operativa implica definir roles y permisos dentro del #[em PMS], permitiendo que cada usuario acceda únicamente a la información necesaria para el desarrollo de sus funciones. Esta segmentación ayuda a reducir riesgos relacionados con manipulación indebida o filtración de datos.
+          p.mb-0(data-aos="fade-right") Asimismo, la seguridad operativa implica definir roles y permisos dentro del PMS, permitiendo que cada usuario acceda únicamente a la información necesaria para el desarrollo de sus funciones. Esta segmentación ayuda a reducir riesgos relacionados con manipulación indebida o filtración de datos.
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-auto.d-none.d-lg-flex
@@ -394,7 +394,7 @@
                 td Sistemas de encriptación.
               tr
                 td #[em Malware] o virus.
-                td Daños en el sistema #[em PMS].
+                td Daños en el sistema PMS.
                 td Antivirus y actualizaciones.
               tr
                 td Accesos no autorizados.
@@ -414,7 +414,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema4/img30.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La transformación digital ha cambiado significativamente la manera en que operan los establecimientos de alojamiento, convirtiendo la tecnología en un elemento fundamental para la gestión de reservas, el control operativo y la atención al huésped. Actualmente, el manejo de herramientas como los sistemas #[em PMS], los canales de distribución digital y las plataformas de integración tecnológica no solo facilita la organización de la información, sino que también fortalece la competitividad y la calidad del servicio dentro de la industria hotelera.
+        p.mb-0 La transformación digital ha cambiado significativamente la manera en que operan los establecimientos de alojamiento, convirtiendo la tecnología en un elemento fundamental para la gestión de reservas, el control operativo y la atención al huésped. Actualmente, el manejo de herramientas como los sistemas PMS, los canales de distribución digital y las plataformas de integración tecnológica no solo facilita la organización de la información, sino que también fortalece la competitividad y la calidad del servicio dentro de la industria hotelera.
 
     .row.align-content-center
       .col-auto.d-none.d-lg-flex

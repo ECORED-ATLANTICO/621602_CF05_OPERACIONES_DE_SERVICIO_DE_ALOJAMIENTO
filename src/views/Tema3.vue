@@ -11,7 +11,7 @@
       .col-lg-3.col-md-8.mb-4.mb-lg-0
         img(src="@/assets/curso/tema3/img01.png").mx-auto
       .col-lg-9
-        p.mb-0 El control operativo y el monitoreo en tiempo real constituyen funciones esenciales dentro de la administración hotelera moderna, ya que permiten supervisar la ocupación, el estado de las habitaciones, las reservas y el comportamiento general de la operación. Gracias al uso de sistemas #[em PMS], los hoteles pueden centralizar información, generar reportes automáticos y visualizar indicadores clave para apoyar la toma de decisiones. Estas herramientas tecnológicas facilitan la coordinación entre áreas operativas y contribuyen a mantener un servicio más organizado, eficiente y orientado a la satisfacción del huésped.
+        p.mb-0 El control operativo y el monitoreo en tiempo real constituyen funciones esenciales dentro de la administración hotelera moderna, ya que permiten supervisar la ocupación, el estado de las habitaciones, las reservas y el comportamiento general de la operación. Gracias al uso de sistemas PMS, los hoteles pueden centralizar información, generar reportes automáticos y visualizar indicadores clave para apoyar la toma de decisiones. Estas herramientas tecnológicas facilitan la coordinación entre áreas operativas y contribuyen a mantener un servicio más organizado, eficiente y orientado a la satisfacción del huésped.
 
     separador
     
@@ -22,7 +22,7 @@
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-23(data-aos="fade-right")
         .col-lg-7.p-4.order-2.order-lg-1
-          p.mb-0 El #[em dashboard] operativo hotelero es un panel visual integrado dentro del #[em PMS] que permite visualizar en tiempo real información relacionada con la operación del establecimiento. A través de gráficos, indicadores y alertas, el personal puede consultar rápidamente datos sobre ocupación, llegadas, salidas, habitaciones disponibles, ingresos y estados operativos.
+          p.mb-0 El #[em dashboard] operativo hotelero es un panel visual integrado dentro del PMS que permite visualizar en tiempo real información relacionada con la operación del establecimiento. A través de gráficos, indicadores y alertas, el personal puede consultar rápidamente datos sobre ocupación, llegadas, salidas, habitaciones disponibles, ingresos y estados operativos.
         .col-lg-5.p-0.order-1.order-lg-2
           img(src="@/assets/curso/tema3/img02.png", alt="")
 
@@ -42,9 +42,9 @@
         TabsA.color-acento-botones()
           .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Indicador de ocupación")
             p.mb-0 El #[em dashboard] permite visualizar el porcentaje de habitaciones ocupadas en tiempo real, facilitando el control de disponibilidad y el análisis del comportamiento del hotel durante el día, la semana o la temporada. Esta información ayuda a tomar decisiones relacionadas con tarifas, ventas y distribución de habitaciones.
-          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Control de check-in y check-out")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Control de <em>check-in</em> y <em>check-out</em>")
             p.mb-0 El sistema muestra la cantidad de huéspedes que ingresarán y saldrán durante el día, permitiendo preparar habitaciones, organizar el personal y agilizar el proceso de recepción y coordinar procesos de limpieza y disponibilidad para nuevas reservas.
-          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Control operativo de housekeeping")
+          .tarjeta.color-acento-botones--borde.p-4.align-content-center(titulo="Control operativo de <em>housekeeping</em>")
             p.mb-0 Permite identificar el estado actual de cada habitación y mejorar la coordinación entre recepción y #[em housekeeping].
             
 
@@ -80,7 +80,7 @@
             .col-12  
               img(src='@/assets/curso/tema3/img08.png' alt="", style="width: 120px;").mx-auto
           h4.text-center Experiencia del cliente
-          p.mb-0.text-center Algunos #[em PMS] integran indicadores relacionados con opiniones y experiencia del huésped.
+          p.mb-0.text-center Algunos PMS integran indicadores relacionados con opiniones y experiencia del huésped.
 
     separador
     
@@ -96,8 +96,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 4.]
           span Gráfico predictivo de pronóstico de ocupación 
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img09.png", alt="Flujo de confirmación de reserva en PMS")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img10.png", alt="Flujo de confirmación de reserva en PMS")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img09.png", alt="La figura ilustra una gráfica comparativa de ocupación hotelera real y proyectada durante 30 días. En ella se incluyen indicadores de ocupación promedio reales del hotel del 70 %, ocupación proyectada del 76 % y una diferencia positiva del 6 %. Estos datos son utilizados para apoyar el análisis y pronóstico operativo del hotel.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img10.png", alt="La figura ilustra una gráfica comparativa de ocupación hotelera real y proyectada durante 30 días. En ella se incluyen indicadores de ocupación promedio reales del hotel del 70 %, ocupación proyectada del 76 % y una diferencia positiva del 6 %. Estos datos son utilizados para apoyar el análisis y pronóstico operativo del hotel.")
         figcaption Nota. SENA, (2026).
 
 
@@ -107,7 +107,7 @@
         figure
           img(src="@/assets/curso/tema3/img11.png", data-aos="zoom-in").mx-auto
       .col-lg-9.order-1.order-lg-2.mb-3.mb-lg-0
-        p.mb-4(data-aos="fade-right") Los sistemas #[em PMS] facilitan la generación automática de pronósticos de ocupación, permitiendo:
+        p.mb-4(data-aos="fade-right") Los sistemas PMS facilitan la generación automática de pronósticos de ocupación, permitiendo:
 
         .row.mb-3.mb-lg-2
           .col-xl-4.col-lg-4.col-md-6.col-sm-12.mb-3.mb-lg-4
@@ -158,7 +158,7 @@
       img(src="@/assets/curso/tema3/img13.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Dentro de la operación hotelera, la generación de reportes constituye una herramienta fundamental para el control, análisis y seguimiento de las actividades diarias del establecimiento. Gracias a los sistemas #[em PMS], los hoteles pueden consolidar información operativa y administrativa de manera automática, permitiendo obtener datos actualizados sobre reservas, ocupación, ingresos, estado de habitaciones y comportamiento de los huéspedes. Esta información facilita la toma de decisiones y contribuye a mejorar la organización interna del hotel.
+        p.banner-text Dentro de la operación hotelera, la generación de reportes constituye una herramienta fundamental para el control, análisis y seguimiento de las actividades diarias del establecimiento. Gracias a los sistemas PMS, los hoteles pueden consolidar información operativa y administrativa de manera automática, permitiendo obtener datos actualizados sobre reservas, ocupación, ingresos, estado de habitaciones y comportamiento de los huéspedes. Esta información facilita la toma de decisiones y contribuye a mejorar la organización interna del hotel.
 
     .bg-full-width.bg-fondo-5.tarjeta.mb-5
       .px-1.py-4.py-md-4.p-lg-4.px-lg-2(data-aos="fade-right")
@@ -182,7 +182,7 @@
         figure
           img(src="@/assets/curso/tema3/img16.png", data-aos="zoom-in")
       .col-lg-10
-        p.mb-3(data-aos="fade-right") Una de las principales ventajas de los reportes generados desde el #[em PMS] es la actualización en tiempo real de la información. Esto permite que los diferentes departamentos del hotel trabajen con datos centralizados y reduzcan errores derivados de registros manuales o desactualizados. Además, la información almacenada puede utilizarse para realizar análisis históricos y proyectar tendencias de ocupación y comportamiento de los huéspedes.
+        p.mb-3(data-aos="fade-right") Una de las principales ventajas de los reportes generados desde el PMS es la actualización en tiempo real de la información. Esto permite que los diferentes departamentos del hotel trabajen con datos centralizados y reduzcan errores derivados de registros manuales o desactualizados. Además, la información almacenada puede utilizarse para realizar análisis históricos y proyectar tendencias de ocupación y comportamiento de los huéspedes.
 
         p.mb-0(data-aos="fade-right") A continuación se presenta una tabla con los tipos de reportes hoteleros y su utilidad:
 
@@ -240,10 +240,10 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-lg-9.mb-3.mb-lg-0.order-2.order-lg-1
-        p.mb-3(data-aos="fade-right") El control de habitaciones representa una de las funciones operativas más importantes dentro de la administración hotelera, ya que permite supervisar permanentemente el estado de las habitaciones y coordinar la disponibilidad del hotel. Este proceso se realiza principalmente entre recepción y el departamento de #[em housekeeping] mediante el apoyo del sistema #[em PMS].
+        p.mb-3(data-aos="fade-right") El control de habitaciones representa una de las funciones operativas más importantes dentro de la administración hotelera, ya que permite supervisar permanentemente el estado de las habitaciones y coordinar la disponibilidad del hotel. Este proceso se realiza principalmente entre recepción y el departamento de #[em housekeeping] mediante el apoyo del sistema PMS.
         
         .bg-fondo-13.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
-          p.mb-0 En los hoteles modernos, el #[em PMS] actualiza en tiempo real el estado operativo de cada habitación, facilitando la comunicación entre áreas y optimizando los tiempos de respuesta. Gracias a esta herramienta, el personal puede identificar cuáles habitaciones están disponibles, ocupadas, pendientes de limpieza, fuera de servicio o en mantenimiento. Esto permite organizar las tareas del personal de #[em housekeeping] y agilizar la asignación de habitaciones para nuevos huéspedes.
+          p.mb-0 En los hoteles modernos, el PMS actualiza en tiempo real el estado operativo de cada habitación, facilitando la comunicación entre áreas y optimizando los tiempos de respuesta. Gracias a esta herramienta, el personal puede identificar cuáles habitaciones están disponibles, ocupadas, pendientes de limpieza, fuera de servicio o en mantenimiento. Esto permite organizar las tareas del personal de #[em housekeeping] y agilizar la asignación de habitaciones para nuevos huéspedes.
       .col-lg-3.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/tema3/img18.png", data-aos="zoom-in")
@@ -252,9 +252,9 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 5.]
-          span Plano de control de habitaciones en #[em PMS]  
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img19.png", alt="Plano de control de habitaciones en PMS")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img20.png", alt="Plano de control de habitaciones en PMS")
+          span Plano de control de habitaciones en PMS  
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema3/img19.png", alt="La figura detalla el plano visual de habitaciones de un hotel organizado por pisos y habitaciones numeradas. Cada habitación utiliza un color diferente para indicar su estado operativo en tiempo real: verde para vacía limpia, azul para vacía sucia, amarillo para ocupada, morado para mantenimiento, rojo para fuera de servicio y gris para bloqueada. El plano incluye una leyenda lateral con el significado de cada color y un resumen general del estado de ocupación del hotel.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema3/img20.png", alt="La figura detalla el plano visual de habitaciones de un hotel organizado por pisos y habitaciones numeradas. Cada habitación utiliza un color diferente para indicar su estado operativo en tiempo real: verde para vacía limpia, azul para vacía sucia, amarillo para ocupada, morado para mantenimiento, rojo para fuera de servicio y gris para bloqueada. El plano incluye una leyenda lateral con el significado de cada color y un resumen general del estado de ocupación del hotel.")
         figcaption Nota. SENA, (2026).
     
     p.mb-4(data-aos="fade-right") La integración tecnológica entre recepción y #[em housekeeping] contribuye significativamente a mejorar la experiencia del huésped, ya que permite reducir tiempos de espera durante el #[em check-in] y mantener un mejor control operativo de la ocupación. Además, facilita el seguimiento de novedades relacionadas con mantenimiento preventivo, daños o requerimientos especiales de las habitaciones.
@@ -264,7 +264,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
             b Tabla 4.
-          span Estados operativos de habitaciones en el #[em PMS]
+          span Estados operativos de habitaciones en el PMS
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
@@ -304,7 +304,7 @@
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.5 Alertas operativas y seguimiento en tiempo real
 
-    p.mb-4 Los sistemas #[em PMS] modernos incorporan herramientas de monitoreo y alertas automáticas que permiten supervisar en tiempo real diferentes situaciones operativas dentro del hotel. Estas notificaciones facilitan el seguimiento de procesos, ayudan a prevenir errores y mejoran la coordinación entre departamentos.
+    p.mb-4 Los sistemas PMS modernos incorporan herramientas de monitoreo y alertas automáticas que permiten supervisar en tiempo real diferentes situaciones operativas dentro del hotel. Estas notificaciones facilitan el seguimiento de procesos, ayudan a prevenir errores y mejoran la coordinación entre departamentos.
 
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-21.p-3.p-sm-4.p-md-5.mb-5
@@ -325,16 +325,16 @@
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
-          .row(titulo="08:45 a. m. – Check-in realizado").align-items-center
+          .row(titulo="08:45 a. m. – <em>Check-in</em> realizado").align-items-center
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
-            .col-lg.order-2.order-lg-2
-              h3 08:45 a. m. – Check-in realizado
+            .col-lg.order-2.order-lg-2.text-left
+              h3 08:45 a. m. – #[em Check-in] realizado
               p El huésped de la reserva número 12540 realizó correctamente el proceso de #[em check-in]. La información queda actualizada en recepción y el sistema registra la habitación como ocupada.
-          .row(titulo="09:00 a. m. – Check-in próximo").align-items-center
+          .row(titulo="09:00 a. m. – <em>Check-in</em> próximo").align-items-center
             .col-lg.order-2.order-lg-1
-              h3 09:00 a. m. – Check-in próximo
+              h3 09:00 a. m. – #[em Check-in] próximo
               p El sistema informa la llegada programada de un huésped en los próximos 15 minutos para la reserva 12548 en la habitación 412. Recepción prepara el ingreso y verifica disponibilidad.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
@@ -343,13 +343,13 @@
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
-            .col-lg.order-2.order-lg-2
+            .col-lg.order-2.order-lg-2.text-left
               h3 10:20 a. m. – Pago pendiente
               p La reserva número 12490 presenta un pago pendiente de confirmación. El área de reservas debe validar la garantía y verificar el estado del cobro antes del ingreso del huésped.
           .row(titulo="11:10 a. m. – Habitación en mantenimiento").align-items-center
             .col-lg.order-2.order-lg-1
               h3 11:10 a. m. – Habitación en mantenimiento
-              p La habitación 502 reporta daños en el sistema de aire acondicionado. El #[em PMS] registra la novedad y cambia temporalmente el estado de la habitación a mantenimiento.
+              p La habitación 502 reporta daños en el sistema de aire acondicionado. El PMS registra la novedad y cambia temporalmente el estado de la habitación a mantenimiento.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
@@ -357,7 +357,7 @@
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
-            .col-lg.order-2.order-lg-2
+            .col-lg.order-2.order-lg-2.text-left
               h3 12:30 p. m. – Sobreocupación prevista
               p El sistema proyecta una ocupación del 95 % para el día siguiente. La gerencia recibe una alerta preventiva para controlar disponibilidad y evitar sobreventas.
           .row(titulo="01:05 p. m. – Habitación lista").align-items-center
@@ -371,13 +371,13 @@
             .col-auto.order-1.order-lg-1.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
-            .col-lg.order-2.order-lg-2
+            .col-lg.order-2.order-lg-2.text-left
               h3 03:15 p. m. – Mantenimiento programado
               p La habitación 208 se encuentra temporalmente fuera de servicio por mantenimiento programado. El sistema restringe su venta hasta finalizar la intervención técnica.
-          .row(titulo="04:10 p. m. – No show").align-items-center
+          .row(titulo="04:10 p. m. – <em>No show</em>").align-items-center
             .col-lg.order-2.order-lg-1
-              h3 04:10 p. m. – No show
-              p El huésped de la reserva número 12470 no se presentó al #[em check-in] ni realizó cancelación previa. El #[em PMS] registra automáticamente el caso como #[em no show] y actualiza la disponibilidad.
+              h3 04:10 p. m. – #[em No show]
+              p El huésped de la reserva número 12470 no se presentó al #[em check-in] ni realizó cancelación previa. El PMS registra automáticamente el caso como #[em no show] y actualiza la disponibilidad.
             .col-auto.order-1.order-lg-2.d-lg-block.d-md-block.d-none.mb-4.mb-lg-0.mx-auto
               figure
                 img(src='@/assets/curso/tema3/img22.svg', alt="")
@@ -400,7 +400,7 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
             b Tabla 5.
-          span Alertas más comunes en un #[em PMS]
+          span Alertas más comunes en un PMS
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
@@ -439,7 +439,7 @@
       .col-lg-auto.d-none.d-lg-block
         img(src="@/assets/curso/tema3/img24.svg").mx-auto
       .col-lg
-        p.mb-0 El control operativo y el monitoreo hotelero mediante sistemas #[em PMS] permiten supervisar en tiempo real la ocupación, las reservas y el estado de las habitaciones, facilitando una gestión más organizada y eficiente. Herramientas como #[em dashboards], reportes, #[em forecasting] y alertas operativas contribuyen a optimizar la toma de decisiones, fortalecer la coordinación entre áreas y mejorar la experiencia del huésped. En este sentido, el uso adecuado de estas herramientas tecnológicas representa una competencia fundamental para el desempeño técnico profesional en los servicios de alojamiento.
+        p.mb-0 El control operativo y el monitoreo hotelero mediante sistemas PMS permiten supervisar en tiempo real la ocupación, las reservas y el estado de las habitaciones, facilitando una gestión más organizada y eficiente. Herramientas como #[em dashboards], reportes, #[em forecasting] y alertas operativas contribuyen a optimizar la toma de decisiones, fortalecer la coordinación entre áreas y mejorar la experiencia del huésped. En este sentido, el uso adecuado de estas herramientas tecnológicas representa una competencia fundamental para el desempeño técnico profesional en los servicios de alojamiento.
 
 
 </template>

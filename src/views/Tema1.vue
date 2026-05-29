@@ -33,14 +33,14 @@
         p.mb-3(data-aos="fade-right") El #[em software] hotelero es un sistema informático diseñado para apoyar y automatizar los procesos operativos, administrativos y comerciales de los establecimientos de alojamiento. Estas herramientas permiten centralizar la información relacionada con reservas, huéspedes, disponibilidad de habitaciones, tarifas, pagos y reportes, facilitando una gestión más organizada y eficiente.
         
         .bg-fondo-2.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-3
-          p.mb-0 En hotelería, el #[em software] más utilizado es el #[em PMS] (#[em Property Management System]), el cual funciona como una plataforma central desde donde se administra gran parte de la operación del hotel. Este sistema permite registrar reservas, realizar #[em check-in] y #[em check-out], controlar la ocupación y generar reportes operativos en tiempo real.
+          p.mb-0 En hotelería, el #[em software] más utilizado es el PMS (#[em Property Management System]), el cual funciona como una plataforma central desde donde se administra gran parte de la operación del hotel. Este sistema permite registrar reservas, realizar #[em check-in] y #[em check-out], controlar la ocupación y generar reportes operativos en tiempo real.
 
         p.mb-0 El crecimiento del turismo y la necesidad de agilizar los procesos de atención al cliente impulsaron la implementación de sistemas tecnológicos en los hoteles. Actualmente, incluso pequeños establecimientos utilizan #[em software] especializado para optimizar sus operaciones y mejorar la experiencia del huésped.
 
     
     .row.mb-5
       .col-lg-7
-        p.mb-0 El #[em software] hotelero o #[em PMS] centraliza la información y automatiza los procesos clave para una operación eficiente en el establecimiento de alojamiento. Sus funciones básicas son:
+        p.mb-0 El #[em software] hotelero o PMS centraliza la información y automatiza los procesos clave para una operación eficiente en el establecimiento de alojamiento. Sus funciones básicas son:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -71,7 +71,7 @@
               .col-8
                 img(src='@/assets/curso/tema1/img08.svg' alt="", style="width: 100px;").mx-auto
             h4.text-center #[b Integración] 
-            p.text-center Se conecta con otros sistemas del hotel y canales de venta (#[em OTA], #[em Channel Manager], etc.).
+            p.text-center Se conecta con otros sistemas del hotel y canales de venta (OTA, #[em Channel Manager], etc.).
 
           .tarjeta.bg-fondo-3.p-4.h-100
             .row.justify-content-center.mb-3
@@ -91,7 +91,7 @@
       .col-lg-10
         .cajon.bg-color-23.p-4(data-aos="fade-right")
           p.mb-3 Estas funciones trabajan de forma integrada para optimizar la operación del hotel, mejorar la experiencia del huésped y aumentar la eficiencia del negocio.
-          p.mb-0 Entre los principales beneficios del #[em PMS] se destacan la automatización de procesos, la reducción de errores, el ahorro de tiempo, la mejora de la experiencia del huésped, la optimización de la ocupación y la centralización de la información hotelera.
+          p.mb-0 Entre los principales beneficios del PMS se destacan la automatización de procesos, la reducción de errores, el ahorro de tiempo, la mejora de la experiencia del huésped, la optimización de la ocupación y la centralización de la información hotelera.
 
     separador
     
@@ -113,7 +113,7 @@
       .col-lg-10
         .bg-fondo-4.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
           .col-lg-11.col-md-12
-            p.mb-3 Actualmente, muchos hoteles utilizan sistemas #[em PMS] en la nube (#[em Cloud PMS]), los cuales permiten acceder a la información desde diferentes dispositivos y gestionar operaciones en tiempo real. Además, la incorporación de inteligencia artificial, automatización y análisis de datos continúa transformando la operación hotelera y las experiencias de los huéspedes.
+            p.mb-3 Actualmente, muchos hoteles utilizan sistemas PMS en la nube (#[em Cloud] PMS), los cuales permiten acceder a la información desde diferentes dispositivos y gestionar operaciones en tiempo real. Además, la incorporación de inteligencia artificial, automatización y análisis de datos continúa transformando la operación hotelera y las experiencias de los huéspedes.
             p.mb-0 A continuación, se presenta la evolución de los sistemas de gestión hotelera:
 
 
@@ -121,11 +121,11 @@
       .col-lg-9.mb-4.mb-lg-0
         LineaTiempoD.color-secundario
           p(numero="Antes de 1970" titulo="Reservas manuales") La gestión hotelera se realizaba de forma manual, mediante registros en papel y comunicación directa, lo que hacía el proceso lento y altamente dependiente del factor humano.
-          p(numero="1970 – 1980" titulo="Primeros sistemas computarizados") Se introducen aplicaciones básicas para asignación de habitaciones, generación de reportes e inicio de la facturación, usando equipos de gran tamaño y software elemental.
+          p(numero="1970 – 1980" titulo="Primeros sistemas computarizados") Se introducen aplicaciones básicas para asignación de habitaciones, generación de reportes e inicio de la facturación, usando equipos de gran tamaño y #[em software] elemental.
           p(numero="1990 – 1995" titulo="Integración de internet") Surgen sistemas como Fidelio™ en entornos MS-DOS, que integran módulos clave como reservas, recepción, caja y control de habitaciones, respondiendo a la expansión del mercado hotelero.
           p(numero="1996 – 1999" titulo="Aparición de Opera™") Se anuncia Opera™, generando altas expectativas en el sector por su propuesta integral; aunque innovador, en sus inicios no logró cumplir completamente lo esperado por los usuarios.
           p(numero="2000 – 2005" titulo="Reservas en línea y OTA") Opera™ se consolida como PMS líder, integrando estabilidad, múltiples interfaces y bases de datos avanzadas como Oracle, impulsando la gestión hotelera digital y las reservas en línea.
-          p(numero="2006" titulo="Diversificación del software hotelero") Con el avance de la computación en la nube, surgen nuevas soluciones a nivel nacional e internacional, como Zeus® y Ezee™, ampliando el portafolio tecnológico del sector.
+          p(numero="2006" titulo="Diversificación del #[em software] hotelero") Con el avance de la computación en la nube, surgen nuevas soluciones a nivel nacional e internacional, como Zeus® y Ezee™, ampliando el portafolio tecnológico del sector.
           p(numero="Actualidad" titulo="Cloud PMS e inteligencia artificial") Los sistemas actuales automatizan integralmente operaciones como reservas, facturación, ventas, alimentos y bebidas, inventarios, talento humano, mantenimiento y calidad, apoyados en la nube y la IA.
       .col-lg-3.d-none.d-lg-block
         figure
@@ -148,7 +148,7 @@
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 #[em PMS] (#[em Property Management System])
+              h4.mb-3 PMS (#[em Property Management System])
               p.mb-0 Es el sistema principal de gestión hotelera. Permite controlar reservas, recepción, ocupación, facturación y reportes operativos.
             .col-md-8.col-lg-5
               figure
@@ -156,7 +156,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 #[em CRS] (#[em Central Reservation System])
+              h4.mb-3 CRS (#[em Central Reservation System])
               p.mb-0 Sistema centralizado utilizado para administrar reservas provenientes de diferentes canales de distribución.
             .col-md-8.col-lg-5
               figure
@@ -165,14 +165,14 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
               h4.mb-3 #[em Channel Manager]
-              p.mb-0 Herramienta que sincroniza disponibilidad y tarifas entre diferentes #[em OTA] y plataformas digitales.
+              p.mb-0 Herramienta que sincroniza disponibilidad y tarifas entre diferentes OTA y plataformas digitales.
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img21.png", alt="").mx-auto
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 #[em CRM] hotelero
+              h4.mb-3 CRM hotelero
               p.mb-0 #[em Software] utilizado para administrar la relación con los clientes y gestionar estrategias de fidelización.
             .col-md-8.col-lg-5
               figure
@@ -180,7 +180,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              h4.mb-3 #[em ERP] hotelero
+              h4.mb-3 ERP hotelero
               p.mb-0 Sistema que integra procesos administrativos, financieros y operativos dentro del hotel.
             .col-md-8.col-lg-5
               figure
@@ -205,23 +205,23 @@
                 th Qué gestiona
             tbody
               tr
-                td #[em PMS]
+                td PMS
                 td Operación hotelera
                 td Reservas, #[em check-in]/#[em check-out], habitaciones, facturación.
               tr
-                td #[em CRS] (#[em Central Reservation System])
+                td CRS (#[em Central Reservation System])
                 td Centralización de reservas
                 td Reservas desde web, agencias y #[em call center].
               tr
                 td #[em Channel Manager]
-                td Distribución online
-                td Disponibilidad y tarifas en #[em OTAs].
+                td Distribución #[em online]
+                td Disponibilidad y tarifas en OTAs.
               tr
-                td #[em CRM] hotelero
+                td CRM hotelero
                 td Gestión de clientes
                 td Datos del cliente, historial, preferencias.
               tr
-                td #[em ERP] hotelero
+                td ERP hotelero
                 td Administración integral
                 td Finanzas, inventario, RRHH, compras.
 
@@ -231,7 +231,7 @@
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Caso práctico
 
-            p.mb-0 Un hotel utiliza un #[em PMS] conectado a un #[em Channel Manager] y a diferentes #[em OTA]. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
+            p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema1/img25.png", alt="").img-fluid.w-75.mx-auto
@@ -239,30 +239,30 @@
     separador
     
     #t_1_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.4 Funciones del #[em PMS] en la operación hotelera
+      h2 1.4 Funciones del PMS en la operación hotelera
 
     .row.align-items-center.mb-5
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema1/img26.svg").mx-auto
       .col-lg
-        p.mb-3 El #[em PMS] constituye el núcleo operativo del #[em software] hotelero, ya que centraliza la información y permite coordinar las diferentes áreas del establecimiento. Este sistema facilita la automatización de tareas y mejora la eficiencia en la prestación del servicio.
-        p.mb-0 Entre las funciones más importantes del #[em PMS] se encuentran:
+        p.mb-3 El PMS constituye el núcleo operativo del #[em software] hotelero, ya que centraliza la información y permite coordinar las diferentes áreas del establecimiento. Este sistema facilita la automatización de tareas y mejora la eficiencia en la prestación del servicio.
+        p.mb-0 Entre las funciones más importantes del PMS se encuentran:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 #[b Figura 1.]
-          span Funciones del #[em PMS]
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img27.svg", alt="Funciones del PMS")
-        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img28.svg", alt="Funciones del PMS")
+          span Funciones del PMS
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/img27.svg", alt="La figura 1 detalla las principales funciones del PMS, las cuales son:\n- Registro y control de reservas.\n- Gestión de check-in y check-out.\n- Asignación de habitaciones.\n- Control de tarifas y disponibilidad.\n- Generación de reportes.\n- Seguimiento del historial de huéspedes.\n- Integración con plataformas de reservas online.")
+        img.mb-2.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/img28.svg", alt="La figura 1 detalla las principales funciones del PMS, las cuales son:\n- Registro y control de reservas.\n- Gestión de check-in y check-out.\n- Asignación de habitaciones.\n- Control de tarifas y disponibilidad.\n- Generación de reportes.\n- Seguimiento del historial de huéspedes.\n- Integración con plataformas de reservas online.")
         figcaption Nota. SENA, (2026).
 
-    .bloque-texto-g.bloque-texto-g--inverso.bg-color-23.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema1/img29.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-0 Gracias a estas funciones, el personal puede acceder rápidamente a la información y brindar una atención más organizada y eficiente al huésped relacionadas con la gestión de solicitudes de reservas, el ingreso y salida de los huéspedes, el estado de las habitaciones, la facturación y todos los reportes de información operativa del establecimiento de alojamiento. 
+    .container
+      .row.justify-content-center.align-items-center.mb-5.bg-color-23(data-aos="fade-right")
+        .col-lg-7.p-4.order-1.order-lg-1
+          p.mb-0 Gracias a estas funciones, el personal puede acceder rápidamente a la información y brindar una atención más organizada y eficiente al huésped relacionadas con la gestión de solicitudes de reservas, el ingreso y salida de los huéspedes, el estado de las habitaciones, la facturación y todos los reportes de información operativa del establecimiento de alojamiento. 
+        .col-lg-5.p-0.order-2.order-lg-2
+          img(src="@/assets/curso/tema1/img29.png", alt="")
 
     .row.justify-content-center.mb-5
       .col-12.col-lg-10.mb-0.col-md-12
@@ -272,7 +272,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img30.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Para ampliar más sus conocimientos sobre los módulos esenciales de #[em PMS] claves en un establecimiento de alojamiento, lo invitamos a consultar el siguiente video:
+                p.mb-0 Para ampliar más sus conocimientos sobre los módulos esenciales de PMS claves en un establecimiento de alojamiento, lo invitamos a consultar el siguiente video:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=x_07Cn5P--E" target="_blank")
                   span Ver video
@@ -339,7 +339,7 @@
                 td Mejora la coordinación operativa y el flujo de información.
               tr
                 td Comercialización digital.
-                td Facilita la conexión con #[em OTA], motores de reserva y #[em Channel Manager].
+                td Facilita la conexión con OTA, motores de reserva y #[em Channel Manager].
                 td Aumenta la dependencia de plataformas externas y comisiones de venta.
                 td Incrementa la visibilidad del hotel y las posibilidades de comercialización.
               tr
@@ -382,13 +382,13 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Caso práctico
-              p.mb-0 Un hotel utiliza un #[em PMS] conectado a un #[em Channel Manager] y a diferentes #[em OTA]. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
+              p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img35.png", alt="").img-fluid.mx-auto
           
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
-              p.mb-0 Con el propósito de mejorar la operation, el hotel implementó un sistema #[em PMS] conectado a un #[em Channel Manager] y a diferentes plataformas de reservas en línea. Después de la implementación, las reservas comenzaron a sincronizarse automáticamente, el estado de las habitaciones podía visualizarse en tiempo real y los reportes operativos se generaban de manera automática. Además, el tiempo de #[em check-in] se redujo y el hotel logró mejorar el control de ocupación y la experiencia de los huéspedes.
+              p.mb-0 Con el propósito de mejorar la operation, el hotel implementó un sistema PMS conectado a un #[em Channel Manager] y a diferentes plataformas de reservas en línea. Después de la implementación, las reservas comenzaron a sincronizarse automáticamente, el estado de las habitaciones podía visualizarse en tiempo real y los reportes operativos se generaban de manera automática. Además, el tiempo de #[em check-in] se redujo y el hotel logró mejorar el control de ocupación y la experiencia de los huéspedes.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img36.png", alt="").img-fluid.mx-auto
 

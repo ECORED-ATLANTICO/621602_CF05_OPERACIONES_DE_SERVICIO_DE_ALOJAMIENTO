@@ -20,7 +20,7 @@ export default {
       tema: 'Reto operativo: domina los procedimientos de reservas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión del aprendiz de los conceptos clave relacionados con usuarios turísticos, servicio al cliente, comunicación, negociación, cotización y venta.<br><br>Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
+        '<b>Objetivo:</b> evaluar la comprensión del aprendiz de los conceptos clave relacionados con usuarios turísticos, servicio al cliente, comunicación, negociación, cotización y venta.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -58,7 +58,7 @@ export default {
         {
           id: 3,
           texto:
-            'El channel manager sincroniza disponibilidad y tarifas entre diferentes canales digitales.',
+            'El <i>channel manager</i> sincroniza disponibilidad y tarifas entre diferentes canales digitales.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -73,7 +73,7 @@ export default {
         {
           id: 4,
           texto:
-            'El check-in digital incrementa los tiempos de espera en recepción.',
+            'El <i>check-in</i> digital incrementa los tiempos de espera en recepción.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -88,7 +88,7 @@ export default {
         {
           id: 5,
           texto:
-            'El forecasting hotelero permite proyectar niveles futuros de ocupación.',
+            'El <i>forecasting</i> hotelero permite proyectar niveles futuros de ocupación.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
@@ -133,7 +133,7 @@ export default {
         {
           id: 8,
           texto:
-            'El departamento de Housekeeping se encarga únicamente de la comercialización de habitaciones.',
+            'El departamento de <i>housekeeping</i> se encarga únicamente de la comercialización de habitaciones.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: false,
           opciones: [
