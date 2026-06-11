@@ -1,4 +1,4 @@
-﻿<template lang="pug">
+<template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
@@ -206,23 +206,23 @@
             tbody
               tr
                 td PMS
-                td Operación hotelera
+                td Operación hotelera.
                 td Reservas, #[em check-in]/#[em check-out], habitaciones, facturación.
               tr
-                td CRS (#[em Central Reservation System])
-                td Centralización de reservas
+                td CRS (#[em Central Reservation System]).
+                td Centralización de reservas.
                 td Reservas desde web, agencias y #[em call center].
               tr
-                td #[em Channel Manager]
-                td Distribución #[em online]
+                td #[em Channel Manager].
+                td Distribución #[em online].
                 td Disponibilidad y tarifas en OTAs.
               tr
-                td CRM hotelero
-                td Gestión de clientes
+                td CRM hotelero.
+                td Gestión de clientes.
                 td Datos del cliente, historial, preferencias.
               tr
-                td ERP hotelero
-                td Administración integral
+                td ERP hotelero.
+                td Administración integral.
                 td Finanzas, inventario, RRHH, compras.
 
     .bg-full-width.bg-fondo-6.px-5.py-4.mb-3
@@ -231,7 +231,7 @@
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Caso práctico
 
-            p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
+            p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde Booking, el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema1/img25.png", alt="").img-fluid.w-75.mx-auto
@@ -275,7 +275,7 @@
                 p.mb-0 Para ampliar más sus conocimientos sobre los módulos esenciales de PMS claves en un establecimiento de alojamiento, lo invitamos a consultar el siguiente video:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=x_07Cn5P--E" target="_blank")
-                  span Ver video
+                  span Consultar video
                   i.fas.fa-play-circle
 
     separador
@@ -382,7 +382,7 @@
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
               h4.mb-3 Caso práctico
-              p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde #[em Booking], el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
+              p.mb-0 Un hotel utiliza un PMS conectado a un #[em Channel Manager] y a diferentes OTA. Cuando un huésped realiza una reserva desde Booking, el sistema actualiza automáticamente la disponibilidad en todas las plataformas, evitando sobreventas y facilitando el control de ocupación.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img35.png", alt="").img-fluid.mx-auto
           

@@ -1,8 +1,8 @@
 export default {
   global: {
-    Name: 'Software hotelero y las reservaciones en hoteles',
+    Name: '<em>Software</em> hotelero y las reservaciones en hoteles',
     Description:
-      'El componente formativo <em>Software</em> hotelero y reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del <em>software</em> hotelero, el funcionamiento del PMS, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
+      'El componente formativo <em>Software</em> hotelero y las reservaciones en hoteles fortalece en el aprendiz competencias relacionadas con el uso de herramientas tecnológicas aplicadas a la operación hotelera y la gestión digital de reservas. A través de este componente se abordarán temas relacionados con la evolución del <em>software</em> hotelero, el funcionamiento del PMS, la operación de reservas, el control de ocupación, los canales de distribución y la integración tecnológica en los establecimientos de alojamiento. Asimismo, el aprendiz afianzará habilidades para el manejo operativo de sistemas hoteleros y la administración eficiente de la información en contextos reales de servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -200,7 +200,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/621602_CF5_DU.pdf',
+        download: 'downloads/621602_CF05_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -229,7 +229,7 @@ export default {
         'Uso de herramientas tecnológicas para realizar procesos operativos de manera automática y eficiente.',
     },
     {
-      termino: '<em>Booking Engine</em>',
+      termino: 'Booking <em>Engine</em>',
       significado:
         'Motor de reservas integrado a la página web del hotel que permite realizar reservas directas en línea.',
     },

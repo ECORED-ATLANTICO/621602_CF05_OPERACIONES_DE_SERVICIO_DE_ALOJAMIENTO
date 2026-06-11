@@ -101,7 +101,7 @@
                 p.mb-0 Le invitamos a consultar el siguiente video, que registra un ejemplo práctico del proceso de ingreso de una reserva en PMS: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=RKpZdrmdneY" target="_blank")
-                  span Ver video
+                  span Consultar video
                   i.fas.fa-play-circle
 
 
@@ -285,7 +285,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-4 El #[em software] hotelero permite gestionar cancelaciones y anulaciones de manera organizada, actualizando automáticamente la disponibilidad de habitaciones y aplicando las políticas establecidas por el hotel.
-
+        <br><br>
         p.mb-0 Esta función tiene como objetivo mantener la disponibilidad de habitaciones actualizadas, aplicando políticas de cancelación de forma justa y oportuna para poder ofrecer una experiencia confiable al huésped.
 
 
@@ -415,7 +415,7 @@
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Importancia del historial del huésped y el seguimiento de reservas en la operación hotelera"
                 tiempo
-                :audio="require('@/assets/curso/audio/1.mp3')"
+                :audio="require('@/assets/curso/audio/PODCAST1_IMPORTANCIA_DEL_HISTORIAL_DEL_HUESPED_Y_EL_SEGUIMIENTO_DE_RESERVAS_EN_LA_OPERACION_HOTELERA.mp3')"
               )
 
     .row.align-items-center.mb-3

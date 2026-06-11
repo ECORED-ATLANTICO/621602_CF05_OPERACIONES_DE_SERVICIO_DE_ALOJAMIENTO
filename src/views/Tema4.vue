@@ -34,7 +34,7 @@
             .col-lg-auto.d-none.d-lg-block
               img(src="@/assets/curso/tema4/img03.svg").mx-auto
             .col-lg
-              p.mb-3 Entre las OTA más utilizadas en hotelería se encuentran: <em>Booking</em>, <em>Expedia</em>, Despegar, <em>Airbnb</em> y <em>Hotels.com</em>.
+              p.mb-3 Entre las OTA más utilizadas en hotelería se encuentran: Booking, Expedia, Despegar, Airbnb y Hotels.com.
               p.mb-0 Estas plataformas funcionan como intermediarios entre el hotel y el cliente, ampliando la visibilidad del establecimiento y facilitando el acceso a mercados nacionales e internacionales. Sin embargo, generalmente cobran comisiones por cada reserva realizada.
 
       .col-lg-2.col-md-6
@@ -90,7 +90,7 @@
           .col-lg-9.order-2.order-lg-1
             h4.mb-3 Caso práctico
 
-            p.mb-0 Un huésped encuentra una habitación del Hotel Mirador Plaza en #[em Booking] y realiza la reserva desde la plataforma. Simultáneamente, otro cliente reserva directamente desde la página web del hotel mediante el motor de reservas. Ambas reservas se sincronizan automáticamente con el PMS, actualizando la disponibilidad en tiempo real.
+            p.mb-0 Un huésped encuentra una habitación del Hotel Mirador Plaza en Booking y realiza la reserva desde la plataforma. Simultáneamente, otro cliente reserva directamente desde la página web del hotel mediante el motor de reservas. Ambas reservas se sincronizan automáticamente con el PMS, actualizando la disponibilidad en tiempo real.
 
           .col-lg-3.col-md-6.order-1.order-lg-2.mb-4.mb-lg-0
             img(src="@/assets/curso/tema4/img06.png", alt="").img-fluid.w-75.mx-auto
@@ -107,7 +107,7 @@
                 p.mb-0 Lo invitamos a consultar el siguiente blog para ampliar sus conocimientos sobre las agencias de viaje en línea (OTA), cómo funcionan, cuáles son sus principales ventajas y algunos ejemplos:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://stays.net/blog/es/que-son-las-otas-y-cuales-son-las-principales/" target="_blank")
-                  span Ver blog
+                  span Consultar blog
                   i.fas.fa-file-pdf
 
     separador
@@ -135,7 +135,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-12.mb-4.mb-lg-0
-        p.mb-0(data-aos="fade-right") Por ejemplo, si una habitación es reservada desde <em>Expedia</em>, el sistema descuenta inmediatamente la disponibilidad en <em>Booking</em>, <em>Airbnb</em> y la página web del hotel. Esto facilita el control operativo y mejora la eficiencia comercial del establecimiento.
+        p.mb-0(data-aos="fade-right") Por ejemplo, si una habitación es reservada desde Expedia, el sistema descuenta inmediatamente la disponibilidad en Booking, Airbnb y la página web del hotel. Esto facilita el control operativo y mejora la eficiencia comercial del establecimiento.
 
       .col-lg-7.col-md-12.order-3.order-lg-2
         .bg-fondo-10.px-lg-5.py-lg-4.px-4.py-3.br-15(data-aos="fade-down")
@@ -174,7 +174,7 @@
                 p.mb-0 Para profundizar en los beneficios que representa trabajar con canales o #[em Channel Manager], lo invitamos a consultar el siguiente video:
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=d9PWJaiaxjU" target="_blank")
-                  span Ver video
+                  span Consultar video
                   i.fas.fa-play-circle
 
     separador
@@ -243,7 +243,7 @@
                 p.mb-0 Para profundizar qué son los GDS en turismo y cuáles son los más importantes, lo invitamos a consultar el siguiente artículo especializado: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.entornoturistico.com/que-son-los-gds-en-turismo-y-cuales-son-los-mas-importantes/" target="_blank")
-                  span Ver blog
+                  span Consultar blog
                   i.fas.fa-file-pdf
 
 
@@ -268,10 +268,10 @@
                   ul.lista-ul.mb-0  
                     li
                       i.lista-ul__vineta
-                      | PMS en la nube (#[em Cloud] PMS).
+                      | PMS en la nube (<em>Cloud</em> PMS).
                     li
                       i.lista-ul__vineta
-                      | #[em Check-in] digital.
+                      | <em>Check-in</em> digital.
                     li
                       i.lista-ul__vineta
                       | Llaves móviles.
@@ -314,7 +314,7 @@
               TarjetaAudio.color-acento-contenido.bg-color-white.mb-3(
                 texto="Transformación digital y experiencia del huésped en la hotelería moderna"
                 tiempo
-                :audio="require('@/assets/curso/audio/1.mp3')"
+                :audio="require('@/assets/curso/audio/PODCAST2_TRANSFORMACION_DIGITAL_Y_EXPERIENCIA_DEL_HUESPED_EN_LA_HOTELERIA_MODERNA.mp3')"
               )
 
 
@@ -344,7 +344,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0 En hotelería, gran parte de la operación funciona mediante modelos cliente/servidor, donde la información se almacena en servidores centrales conectados a diferentes equipos y dispositivos utilizados por recepción, reservas, administración y otros departamentos. Esta conectividad facilita la operación en tiempo real, pero también puede exponer los sistemas a riesgos como #[em malware], robo de información, fraudes digitales o pérdida de datos. Por esta razón, los hoteles implementan mecanismos de protección como sistemas antivirus, firewalls, controles de acceso y procesos de encriptación de la información.
+              p.mb-0 En hotelería, gran parte de la operación funciona mediante modelos cliente/servidor, donde la información se almacena en servidores centrales conectados a diferentes equipos y dispositivos utilizados por recepción, reservas, administración y otros departamentos. Esta conectividad facilita la operación en tiempo real, pero también puede exponer los sistemas a riesgos como #[em malware], robo de información, fraudes digitales o pérdida de datos. Por esta razón, los hoteles implementan mecanismos de protección como sistemas antivirus, #[em firewalls], controles de acceso y procesos de encriptación de la información.
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema4/img25.png", alt="").mx-auto
