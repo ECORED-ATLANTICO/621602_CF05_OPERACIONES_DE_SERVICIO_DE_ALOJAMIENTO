@@ -319,54 +319,54 @@
             tbody
               tr
                 td Automatización de procesos
-                td Permite realizar tareas de manera más rápida y organizada, reduciendo procesos manuales repetitivos
-                td Requiere capacitación constante del personal para utilizar correctamente las herramientas tecnológicas
-                td Mejora la productividad y disminuye errores operativos en reservas y recepción
+                td Permite realizar tareas de manera más rápida y organizada, reduciendo procesos manuales repetitivos.
+                td Requiere capacitación constante del personal para utilizar correctamente las herramientas tecnológicas.
+                td Mejora la productividad y disminuye errores operativos en reservas y recepción.
               tr
                 td Gestión de reservas
-                td Centraliza las reservas provenientes de diferentes canales en un solo sistema
-                td La mala configuración del sistema puede generar duplicidad o pérdida de reservas
-                td Facilita el control de ocupación y la disponibilidad de habitaciones
+                td Centraliza las reservas provenientes de diferentes canales en un solo sistema.
+                td La mala configuración del sistema puede generar duplicidad o pérdida de reservas.
+                td Facilita el control de ocupación y la disponibilidad de habitaciones.
               tr
                 td Control de información
-                td Permite acceder en tiempo real a datos de huéspedes, tarifas y ocupación
-                td Dependencia tecnológica frente a fallas de internet o del sistema
-                td Favorece una toma de decisiones más rápida y organizada
+                td Permite acceder en tiempo real a datos de huéspedes, tarifas y ocupación.
+                td Dependencia tecnológica frente a fallas de internet o del sistema.
+                td Favorece una toma de decisiones más rápida y organizada.
               tr
                 td Integración de áreas
-                td Conecta departamentos como recepción, #[em housekeeping], facturación y reservas
-                td La falta de integración adecuada puede afectar la comunicación entre áreas
-                td Mejora la coordinación operativa y el flujo de información
+                td Conecta departamentos como recepción, #[em housekeeping], facturación y reservas.
+                td La falta de integración adecuada puede afectar la comunicación entre áreas.
+                td Mejora la coordinación operativa y el flujo de información.
               tr
                 td Comercialización digital
-                td Facilita la conexión con OTA, motores de reserva y #[em Channel Manager]
-                td Aumenta la dependencia de plataformas externas y comisiones de venta
-                td Incrementa la visibilidad del hotel y las posibilidades de comercialización
+                td Facilita la conexión con OTA, motores de reserva y #[em Channel Manager].
+                td Aumenta la dependencia de plataformas externas y comisiones de venta.
+                td Incrementa la visibilidad del hotel y las posibilidades de comercialización.
               tr
                 td Experiencia del huésped
-                td Agiliza procesos de #[em check-in], facturación y atención personalizada
-                td Los errores tecnológicos pueden afectar directamente la satisfacción del cliente
-                td Contribuye a brindar un servicio más eficiente y competitivo
+                td Agiliza procesos de #[em check-in], facturación y atención personalizada.
+                td Los errores tecnológicos pueden afectar directamente la satisfacción del cliente.
+                td Contribuye a brindar un servicio más eficiente y competitivo.
               tr
                 td Generación de reportes.
-                td Produce informes automáticos sobre ocupación, ventas y desempeño operativo
-                td La interpretación incorrecta de los datos puede afectar las decisiones administrativas
-                td Permite realizar seguimiento y análisis del comportamiento del hotel
+                td Produce informes automáticos sobre ocupación, ventas y desempeño operativo.
+                td La interpretación incorrecta de los datos puede afectar las decisiones administrativas.
+                td Permite realizar seguimiento y análisis del comportamiento del hotel.
               tr
                 td Seguridad de la información
-                td Los sistemas modernos permiten respaldar y proteger datos de clientes y operaciones
-                td Existen riesgos relacionados con ciberseguridad y protección de datos
-                td Favorece el manejo seguro y organizado de la información hotelera
+                td Los sistemas modernos permiten respaldar y proteger datos de clientes y operaciones.
+                td Existen riesgos relacionados con ciberseguridad y protección de datos.
+                td Favorece el manejo seguro y organizado de la información hotelera.
               tr
                 td Actualización tecnológica
-                td Los sistemas evolucionan constantemente incorporando nuevas funciones y automatizaciones
-                td Implica costos permanentes de actualización y mantenimiento
-                td Mantiene al hotel competitivo frente a las tendencias del mercado
+                td Los sistemas evolucionan constantemente incorporando nuevas funciones y automatizaciones.
+                td Implica costos permanentes de actualización y mantenimiento.
+                td Mantiene al hotel competitivo frente a las tendencias del mercado.
               tr
                 td Optimización de ingresos
-                td Facilita el control tarifario y la implementación de estrategias de #[em revenue management]
-                td Un mal manejo de tarifas puede generar pérdidas económicas o sobreventas
-                td Ayuda a mejorar la rentabilidad y ocupación del establecimiento
+                td Facilita el control tarifario y la implementación de estrategias de #[em revenue management].
+                td Un mal manejo de tarifas puede generar pérdidas económicas o sobreventas.
+                td Ayuda a mejorar la rentabilidad y ocupación del establecimiento.
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-2.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(

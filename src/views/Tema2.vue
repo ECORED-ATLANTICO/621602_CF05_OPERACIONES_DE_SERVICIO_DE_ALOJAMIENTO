@@ -326,15 +326,15 @@
             tbody
               tr
                 td Cancelación
-                td Eliminación voluntaria de una reserva previamente confirmada
+                td Eliminación voluntaria de una reserva previamente confirmada.
                 td Huésped o cliente
               tr
                 td Anulación
-                td Eliminación de una reserva por motivos administrativos o error operativo
+                td Eliminación de una reserva por motivos administrativos o error operativo.
                 td Personal del hotel
               tr
                 td #[em No show]
-                td Ausencia del huésped sin previo aviso en la fecha de llegada
+                td Ausencia del huésped sin previo aviso en la fecha de llegada.
                 td Huésped (por omisión)
 
 
