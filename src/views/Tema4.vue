@@ -64,25 +64,25 @@
                 th Motor de reservas
             tbody
               tr
-                td Tipo de plataforma.
-                td Intermediario digital.
-                td Herramienta propia del hotel.
+                td Tipo de plataforma
+                td Intermediario digital
+                td Herramienta propia del hotel
               tr
-                td Alcance comercial.
-                td Alto alcance internacional.
-                td Enfocado en venta directa.
+                td Alcance comercial
+                td Alto alcance internacional
+                td Enfocado en venta directa
               tr
-                td Comisión.
-                td Sí.
-                td No.
+                td Comisión
+                td Sí
+                td No
               tr
-                td Control tarifario.
-                td Compartido.
-                td Total.
+                td Control tarifario
+                td Compartido
+                td Total
               tr
-                td Relación con el huésped.
-                td Intermediada.
-                td Directa.
+                td Relación con el huésped
+                td Intermediada
+                td Directa
 
     .bg-full-width.bg-fondo-6.px-5.py-4.mb-5
       .container(data-aos="fade-right")

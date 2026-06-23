@@ -203,35 +203,35 @@
                 th Utilidad operativa
             tbody
               tr
-                td Reporte de ocupación.
-                td Habitaciones ocupadas y disponibles.
-                td Recepción y reservas.
-                td Control de disponibilidad.
+                td Reporte de ocupación
+                td Habitaciones ocupadas y disponibles
+                td Recepción y reservas
+                td Control de disponibilidad
               tr
-                td Llegadas y salidas.
-                td #[em Check-in] y #[em check-out] programados.
-                td Recepción.
-                td Planeación operativa.
+                td Llegadas y salidas
+                td #[em Check-in] y #[em check-out] programados
+                td Recepción
+                td Planeación operativa
               tr
-                td Reporte financiero.
-                td Ingresos y pagos.
-                td Administración.
-                td Seguimiento económico.
+                td Reporte financiero
+                td Ingresos y pagos
+                td Administración
+                td Seguimiento económico
               tr
-                td #[em No show] y cancelaciones.
-                td Reservas incumplidas.
-                td Reservas.
-                td Análisis de comportamiento.
+                td #[em No show] y cancelaciones
+                td Reservas incumplidas
+                td Reservas
+                td Análisis de comportamiento
               tr
-                td Reporte de #[em housekeeping].
-                td Estado de habitaciones.
-                td Ama de llaves.
-                td Coordinación de limpieza.
+                td Reporte de #[em housekeeping]
+                td Estado de habitaciones
+                td Ama de llaves
+                td Coordinación de limpieza
               tr
-                td Reporte de tarifas.
-                td Tarifas y promociones aplicadas.
-                td Comercial.
-                td Control tarifario.
+                td Reporte de tarifas
+                td Tarifas y promociones aplicadas
+                td Comercial
+                td Control tarifario
 
     separador
     
@@ -275,29 +275,29 @@
                 th Acción requerida
             tbody
               tr
-                td Vacía limpia.
-                td Habitación disponible para venta.
-                td Asignación a huésped.
+                td Vacía limpia
+                td Habitación disponible para venta
+                td Asignación a huésped
               tr
-                td Vacía sucia.
-                td Habitación pendiente de limpieza.
-                td Intervención de #[em housekeeping].
+                td Vacía sucia
+                td Habitación pendiente de limpieza
+                td Intervención de #[em housekeeping]
               tr
-                td Ocupada.
-                td Habitación en uso por huésped.
-                td Seguimiento operativo.
+                td Ocupada
+                td Habitación en uso por huésped
+                td Seguimiento operativo
               tr
-                td Fuera de servicio.
-                td Habitación no disponible.
-                td Revisión técnica.
+                td Fuera de servicio
+                td Habitación no disponible
+                td Revisión técnica
               tr
-                td En mantenimiento.
-                td Requiere reparación.
-                td Coordinación con mantenimiento.
+                td En mantenimiento
+                td Requiere reparación
+                td Coordinación con mantenimiento
               tr
-                td Bloqueada.
-                td Reservada o restringida.
-                td Control de disponibilidad.
+                td Bloqueada
+                td Reservada o restringida
+                td Control de disponibilidad
 
     separador
     
@@ -411,29 +411,29 @@
                 th Acción recomendada
             tbody
               tr
-                td Habitación pendiente.
-                td No ha sido limpiada.
-                td Priorizar #[em housekeeping].
+                td Habitación pendiente
+                td No ha sido limpiada
+                td Priorizar #[em housekeeping]
               tr
-                td Reserva sin garantía.
-                td Falta confirmación de pago.
-                td Contactar al huésped.
+                td Reserva sin garantía
+                td Falta confirmación de pago
+                td Contactar al huésped
               tr
-                td Sobreocupación.
-                td Exceso de reservas.
-                td Reubicar o controlar disponibilidad.
+                td Sobreocupación
+                td Exceso de reservas
+                td Reubicar o controlar disponibilidad
               tr
-                td #[em Check-in] próximo.
-                td Llegada cercana del huésped.
-                td Preparar habitación.
+                td #[em Check-in] próximo
+                td Llegada cercana del huésped
+                td Preparar habitación
               tr
-                td Pago pendiente.
-                td Factura no cerrada.
-                td Verificar cobro.
+                td Pago pendiente
+                td Factura no cerrada
+                td Verificar cobro
               tr
-                td Mantenimiento requerido.
-                td Reporte técnico activo.
-                td Coordinar reparación.
+                td Mantenimiento requerido
+                td Reporte técnico activo
+                td Coordinar reparación
 
     .row.align-items-center.mb-5
       .col-lg-auto.d-none.d-lg-block
