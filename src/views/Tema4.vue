@@ -268,10 +268,10 @@
                   ul.lista-ul.mb-0  
                     li
                       i.lista-ul__vineta
-                      | PMS en la nube (<em>Cloud</em> PMS).
+                      p.mb-0 PMS en la nube (<em>Cloud</em> PMS).
                     li
                       i.lista-ul__vineta
-                      | <em>Check-in</em> digital.
+                      p.mb-0 <em>Check-in</em> digital.
                     li
                       i.lista-ul__vineta
                       | Llaves móviles.

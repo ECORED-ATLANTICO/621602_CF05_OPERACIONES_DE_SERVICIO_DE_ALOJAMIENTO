@@ -348,7 +348,7 @@
                 td Los errores tecnológicos pueden afectar directamente la satisfacción del cliente.
                 td Contribuye a brindar un servicio más eficiente y competitivo.
               tr
-                td Generación de reportes.
+                td Generación de reportes
                 td Produce informes automáticos sobre ocupación, ventas y desempeño operativo.
                 td La interpretación incorrecta de los datos puede afectar las decisiones administrativas.
                 td Permite realizar seguimiento y análisis del comportamiento del hotel.
