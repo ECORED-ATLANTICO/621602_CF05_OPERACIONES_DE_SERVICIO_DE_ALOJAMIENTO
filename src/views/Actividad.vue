@@ -27,13 +27,30 @@ export default {
       preguntas: [
         {
           id: 1,
-          texto:
-            'El PMS permite gestionar reservas, ocupación y reportes operativos dentro del hotel.',
+          texto: '¿Cuál es una función principal del PMS en un hotel?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Diseñar campañas publicitarias.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Gestionar reservas, ocupación y reportes operativos.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Reemplazar todos los cargos administrativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Administrar únicamente redes sociales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -42,13 +59,31 @@ export default {
         },
         {
           id: 2,
-          texto:
-            'Las OTA son plataformas utilizadas únicamente para la administración interna del hotel.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué son las OTA en el contexto hotelero?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Plataformas internas para controlar inventarios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Agencias de viajes en línea que comercializan servicios hoteleros.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Sistemas exclusivos de mantenimiento.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Programas contables del hotel.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -57,13 +92,31 @@ export default {
         },
         {
           id: 3,
-          texto:
-            'El <i>channel manager</i> sincroniza disponibilidad y tarifas entre diferentes canales digitales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Para qué sirve un <em>channel manager</em>?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Para registrar únicamente pagos en efectivo.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Para sincronizar disponibilidad y tarifas en diferentes canales digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Para asignar turnos al personal.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Para reemplazar el servicio de recepción.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -72,13 +125,31 @@ export default {
         },
         {
           id: 4,
-          texto:
-            'El <i>check-in</i> digital incrementa los tiempos de espera en recepción.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué beneficio ofrece el <em>check-in</em> digital?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Incrementa los tiempos de espera.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Reduce trámites presenciales y agiliza la llegada del huésped.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Elimina la necesidad de confirmar reservas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Impide actualizar los datos del huésped.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -87,13 +158,30 @@ export default {
         },
         {
           id: 5,
-          texto:
-            'El <i>forecasting</i> hotelero permite proyectar niveles futuros de ocupación.',
+          texto: '¿Cuál es el propósito del <em>forecasting</em> hotelero?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Proyectar niveles futuros de ocupación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Diseñar uniformes del personal.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Eliminar los reportes operativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Bloquear canales de venta.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -102,13 +190,31 @@ export default {
         },
         {
           id: 6,
-          texto:
-            'El historial del huésped no tiene importancia dentro de la operación hotelera.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Por qué es importante el historial del huésped?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Porque permite conocer preferencias y mejorar la atención.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Porque reemplaza la reserva.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Porque solo sirve para fines contables.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Porque impide modificar datos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -117,13 +223,31 @@ export default {
         },
         {
           id: 7,
-          texto:
-            'Los sistemas GDS facilitan la distribución global de servicios turísticos y hoteleros.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué función cumplen los sistemas GDS?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Facilitan la distribución global de servicios turísticos y hoteleros.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Controlan exclusivamente la limpieza de habitaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Registran únicamente quejas de huéspedes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Eliminan la intermediación digital.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -132,13 +256,31 @@ export default {
         },
         {
           id: 8,
-          texto:
-            'El departamento de <i>housekeeping</i> se encarga únicamente de la comercialización de habitaciones.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Cuál es una función del área de <em>housekeeping</em>?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Comercializar paquetes turísticos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Gestionar limpieza, alistamiento y estado de habitaciones.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Crear tarifas promocionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Administrar reservas externas.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -147,13 +289,31 @@ export default {
         },
         {
           id: 9,
-          texto:
-            'Los reportes generados por el PMS apoyan la toma de decisiones operativas y administrativas.',
+          texto: '¿Para qué sirven los reportes generados por el PMS?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Para apoyar la toma de decisiones operativas y administrativas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Para reemplazar el contacto con el huésped.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Para eliminar la supervisión del personal.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Para impedir cambios en reservas.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -162,13 +322,31 @@ export default {
         },
         {
           id: 10,
-          texto:
-            'La automatización hotelera elimina completamente la necesidad de supervisión humana.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué papel cumple la automatización hotelera?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Elimina por completo la supervisión humana.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Apoya procesos operativos, pero requiere control y seguimiento.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Sustituye todas las áreas del hotel.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Solo aplica para grandes cadenas.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -177,13 +355,31 @@ export default {
         },
         {
           id: 11,
-          texto:
-            'Las alertas operativas ayudan a identificar situaciones que requieren atención inmediata.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Cuál es la utilidad de las alertas operativas?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto:
+                'Identificar situaciones que requieren atención inmediata.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Cancelar automáticamente todas las reservas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Evitar la comunicación entre áreas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Reemplazar los reportes administrativos.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -192,28 +388,62 @@ export default {
         },
         {
           id: 12,
-          texto:
-            'La seguridad de la información solo es importante para grandes cadenas hoteleras.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Por qué es importante la seguridad de la información?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto: 'Porque protege datos del huésped y del establecimiento.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Porque solo aplica a hoteles internacionales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Porque permite divulgar información sin autorización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Porque elimina el uso de contraseñas.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
-          mensaje_incorrecta:
+          mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 13,
-          texto:
-            'La transformación digital ha fortalecido la integración entre áreas operativas del hotel.',
+          texto: '¿Qué ha favorecido la transformación digital en los hoteles?',
           imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'La desintegración de los procesos operativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'La integración entre áreas y la mejora del servicio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'La eliminación del servicio al cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La reducción de los canales de reserva.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -222,13 +452,30 @@ export default {
         },
         {
           id: 14,
-          texto:
-            'Las llaves móviles permiten al huésped acceder a la habitación mediante dispositivos digitales.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué permiten las llaves móviles?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: true },
-            { id: 'b', texto: 'Falso', esCorrecta: false },
+            {
+              id: 'a',
+              texto: 'Acceder a la habitación mediante dispositivos digitales.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Eliminar el registro del huésped.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Bloquear el PMS.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Realizar únicamente pagos virtuales.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
@@ -237,13 +484,197 @@ export default {
         },
         {
           id: 15,
-          texto:
-            'Los motores de reserva son herramientas utilizadas exclusivamente por las agencias de viajes.',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: false,
+          texto: '¿Qué es un motor de reservas?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero', esCorrecta: false },
-            { id: 'b', texto: 'Falso', esCorrecta: true },
+            {
+              id: 'a',
+              texto:
+                'Una herramienta que permite gestionar reservas directas en canales digitales del hotel.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Un sistema usado exclusivamente por agencias de viajes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Un programa para administrar nómina.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Una aplicación solo para housekeeping.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Qué ventaja ofrece integrar el PMS con otros sistemas hoteleros?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Disminuye la coordinación entre áreas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Facilita el flujo de información y mejora la operación.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Impide generar reportes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Elimina la gestión de reservas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué información debe actualizarse en los canales digitales de reserva?',
+          imagen: require('@/assets/actividad/imagen1.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Disponibilidad, tarifas y condiciones del servicio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Únicamente el nombre del hotel.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Solo fotografías antiguas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Información ajena a la operación.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Qué riesgo puede generar una mala sincronización entre canales?',
+          imagen: require('@/assets/actividad/imagen2.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Mayor control de inventario.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto:
+                'Sobreventas, errores tarifarios o inconsistencias en reservas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Mejor experiencia del huésped.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Disminución de reclamos.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Cómo contribuye el software hotelero al servicio al cliente?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Permite consultar información actualizada para responder mejor al huésped.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Evita toda comunicación con el cliente.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Elimina la necesidad de registrar solicitudes.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Limita el seguimiento de reservas.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+        },
+        {
+          id: 20,
+          texto: '¿Cuál es una buena práctica en el uso de sistemas hoteleros?',
+          imagen: require('@/assets/actividad/imagen4.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Compartir contraseñas entre todos los usuarios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Registrar información completa, actualizada y segura.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Omitir cambios en las reservas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Usar datos sin verificar.',
+              esCorrecta: false,
+            },
           ],
           mensaje_correcto:
             'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
