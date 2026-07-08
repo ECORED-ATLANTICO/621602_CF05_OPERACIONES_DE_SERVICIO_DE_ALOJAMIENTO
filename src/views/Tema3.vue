@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Control operativo y monitoreo hotelero
+      h1 Control operativo y monitoreo técnico
 
     .row.align-items-center.mb-3.justify-content-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0

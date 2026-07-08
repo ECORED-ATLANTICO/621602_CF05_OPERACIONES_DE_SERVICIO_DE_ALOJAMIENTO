@@ -260,7 +260,7 @@
     .container
       .row.justify-content-center.align-items-center.mb-5.bg-color-23(data-aos="fade-right")
         .col-lg-7.p-4.order-1.order-lg-1
-          p.mb-0 Gracias a estas funciones, el personal puede acceder rápidamente a la información y brindar una atención más organizada y eficiente al huésped relacionadas con la gestión de solicitudes de reservas, el ingreso y salida de los huéspedes, el estado de las habitaciones, la facturación y todos los reportes de información operativa del establecimiento de alojamiento. 
+          p.mb-0 Gracias a estas funciones, el personal puede acceder rápidamente a la información y brindar una atención más organizada y eficiente al huésped relacionada con la gestión de solicitudes de reservas, el ingreso y salida de los huéspedes, el estado de las habitaciones, la facturación y todos los reportes de información operativa del establecimiento de alojamiento. 
         .col-lg-5.p-0.order-2.order-lg-2
           img(src="@/assets/curso/tema1/img29.png", alt="")
 
@@ -388,7 +388,7 @@
           
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-9.order-1.order-lg-1.mb-4.mb-lg-0
-              p.mb-0 Con el propósito de mejorar la operation, el hotel implementó un sistema PMS conectado a un #[em Channel Manager] y a diferentes plataformas de reservas en línea. Después de la implementación, las reservas comenzaron a sincronizarse automáticamente, el estado de las habitaciones podía visualizarse en tiempo real y los reportes operativos se generaban de manera automática. Además, el tiempo de #[em check-in] se redujo y el hotel logró mejorar el control de ocupación y la experiencia de los huéspedes.
+              p.mb-0 Con el propósito de mejorar la operación, el hotel implementó un sistema PMS conectado a un #[em Channel Manager] y a diferentes plataformas de reservas en línea. Después de la implementación, las reservas comenzaron a sincronizarse automáticamente, el estado de las habitaciones podía visualizarse en tiempo real y los reportes operativos se generaban de manera automática. Además, el tiempo de #[em check-in] se redujo y el hotel logró mejorar el control de ocupación y la experiencia de los huéspedes.
             .col-lg-3.col-md-6.order-2.order-lg-2
               img(src="@/assets/curso/tema1/img36.png", alt="").img-fluid.mx-auto
 

@@ -240,7 +240,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema4/img07.svg", class="img-fluid cita-decorada__imagen-flotante-3")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Para profundizar qué son los GDS en turismo y cuáles son los más importantes, lo invitamos a consultar el siguiente artículo especializado: 
+                p.mb-0 Para profundizar en qué son los GDS en turismo y cuáles son los más importantes, lo invitamos a consultar el siguiente artículo especializado: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.entornoturistico.com/que-son-los-gds-en-turismo-y-cuales-son-los-mas-importantes/" target="_blank")
                   span Consultar blog
@@ -351,7 +351,7 @@
 
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0 Otro aspecto importante corresponde a la seguridad de las aplicaciones y plataformas utilizadas en la gestión hotelera. Los sistemas PMS, motores de reserva y plataformas de pago deben contar con protocolos de seguridad que permitan proteger la información de huéspedes y garantizar transacciones seguras. Un fallo en la protección de estas herramientas podría afectar la operación del hotel y comprometer la confianza de los clientes  .
+              p.mb-0 Otro aspecto importante corresponde a la seguridad de las aplicaciones y plataformas utilizadas en la gestión hotelera. Los sistemas PMS, motores de reserva y plataformas de pago deben contar con protocolos de seguridad que permitan proteger la información de huéspedes y garantizar transacciones seguras. Un fallo en la protección de estas herramientas podría afectar la operación del hotel y comprometer la confianza de los clientes.
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema4/img26.png", alt="").mx-auto
