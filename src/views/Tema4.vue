@@ -52,7 +52,7 @@
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b Tabla 6.
+            b Tabla 7.
           span Cuadro comparativo de OTA y motores de reservas
         .tabla-a.color-acento-contenido 
           table
@@ -370,14 +370,14 @@
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema4/img29.svg", data-aos="zoom-in").mx-auto
       .col-lg
-        p.mb-0 Adelante, la capacitación del personal constituye uno de los elementos más importantes dentro de la ciberseguridad hotelera. Muchas amenazas digitales ocurren por errores humanos relacionados con el manejo inadecuado de correos electrónicos, contraseñas o dispositivos externos. Por ello, es fundamental fortalecer buenas prácticas de seguridad informática y promover una cultura organizacional orientada a la protección de la información.
+        p.mb-0 Finalmente, la capacitación del personal constituye uno de los elementos más importantes dentro de la ciberseguridad hotelera. Muchas amenazas digitales ocurren por errores humanos relacionados con el manejo inadecuado de correos electrónicos, contraseñas o dispositivos externos. Por ello, es fundamental fortalecer buenas prácticas de seguridad informática y promover una cultura organizacional orientada a la protección de la información.
         
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b Tabla 7.
+            b Tabla 8.
           span Riesgos y medidas de seguridad en hotelería
         .tabla-a.color-acento-contenido 
           table

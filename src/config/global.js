@@ -99,7 +99,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Control operativo y monitoreo técnico',
+        titulo: 'Control operativo y monitoreo hotelero',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -447,12 +447,12 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producción Atlántico',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -461,14 +461,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Amparo Virginia Moreno Cantero',
+          nombre: 'Harbey Enrique Castelblanco',
           cargo: 'Experto temático',
-          centro: 'Centro de Servicios y Gestión Empresarial',
-        },
-        {
-          nombre: 'Harbey Castelblanco',
-          cargo: 'Experto temático',
-          centro: 'Centro Colombo Alemán - Regional Atlántico',
+          centro: 'Centro Nacional Colombo Alemán',
         },
         {
           nombre: 'María Fernanda Morales Angulo',
@@ -502,22 +497,22 @@ export default {
       autores: [
         {
           nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],

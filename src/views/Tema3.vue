@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Control operativo y monitoreo técnico
+      h1 Control operativo y monitoreo hotelero
 
     .row.align-items-center.mb-3.justify-content-center
       .col-lg-3.col-md-8.mb-4.mb-lg-0
@@ -263,7 +263,7 @@
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b Tabla 4.
+            b Tabla 5.
           span Estados operativos de habitaciones en el PMS
         .tabla-a.color-acento-contenido 
           table
@@ -399,7 +399,7 @@
       .col-12.col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 
-            b Tabla 5.
+            b Tabla 6.
           span Alertas más comunes en un PMS
         .tabla-a.color-acento-contenido 
           table
